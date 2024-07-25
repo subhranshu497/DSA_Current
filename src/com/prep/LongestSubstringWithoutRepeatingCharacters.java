@@ -10,23 +10,22 @@ public class LongestSubstringWithoutRepeatingCharacters {
     }
 
     private static int lengthOfLongestSubstring(String s) {
-        if(s.length()==0) return 0;
-        if(s.length()==1)return 1;
-        int i=0;
-        int j=0;
-        int result = 0;
-        Map<Character, Integer> map = new HashMap<>();
-        while(j<s.length()){
-            char r = s.charAt(j);
-            map.put(r,map.getOrDefault(r,0)+1);
-            while(map.get(r)>1){
-                char l = s.charAt(i);
-                map.put(l, map.get(l)-1);
-                i++;
-            }
-            result = Math.max(result, j-i+1);
-            j++;
-        }
-        return result;
+       Map<Character, Integer> map = new HashMap<>();
+       if(s.length()==1)return 1;
+       int left = 0;
+       int right=0;
+       int ans =0;
+       while(right<s.length()){
+           char rch = s.charAt(right);
+           map.put(rch, map.getOrDefault(rch,0)+1);
+           while(map.get(rch)>1){
+               char lch = s.charAt(left);
+               map.put(lch, map.get(lch)-1);
+               left++;
+           }
+           ans = Math.max(ans,right-left+1);
+           right++;
+       }
+       return ans;
     }
 }

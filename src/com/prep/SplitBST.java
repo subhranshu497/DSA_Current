@@ -13,21 +13,20 @@ public class SplitBST {
         TreeNode1[] spltited = splitTree(root, v);
     }
 
-    private static TreeNode1[] splitTree(TreeNode1 root, int v) {
-        //base condition
-        if(root == null) return new TreeNode1[]{null, null};
-        TreeNode1[] splitted;
-        if(root.val<=v){
-            splitted = splitTree(root.right,v);
-            root.right=splitted[0];
-            splitted[0] = root;
+    private static TreeNode1[] splitTree(TreeNode1 root, int target) {
+        if(root==null) return new TreeNode1[]{null, null};
+        TreeNode1 [] splited;
+        if(target >= root.val){
+            splited =splitTree(root.right, target);
+            root.right = splited[1];
+            splited[1] = root;
         }
         else{
-            splitted = splitTree(root.left,v);
-            root.left=splitted[1];
-            splitted[1] = root;
+            splited=splitTree(root.left, target);
+            root.left = splited[0];
+            splited[0] =root;
         }
-        return splitted;
+        return splited;
     }
 
 }
