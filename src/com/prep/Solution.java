@@ -1,24 +1,36 @@
 package com.prep;
 
-public class Solution {
-    public static void main(String[] args) {
-        int [][] G= {{0,0,1},{1,0,1}};
-        int R =2;
-        int C =3;
-        double r = getHitProbability(R,C, G);
-        System.out.println(r);
-    }
+import java.util.*;
 
-    private static double getHitProbability(int R, int C, int[][] G) {
-        double result=0.0;
-        int countShip = 0;
-        for(int i=0;i<R;i++){
-            for(int j=0;j<C;j++){
-                if(G[i][j]==1)countShip++;
+class Solution {
+    public static void main(String[] args) {
+        int [][] graph = {{1},{0,3},{3},{1,2}};
+        System.out.println(isBipartite(graph));
+    }
+    public static boolean isBipartite(int[][] graph) {
+        int [] colors = new int[graph.length];
+        Arrays.fill(colors, -1);
+        for(int i=0;i<graph.length;i++){
+            if(colors[i]==-1){
+                if(!bipartiteBFS(graph, i, colors, 1))return false;
             }
         }
-        System.out.println(countShip);
-        result =(double) countShip/(R*C);
-        return result;
+        return true;
+    }
+    private static boolean bipartiteBFS(int[][] adj, int node, int [] colors, int currColor){
+        colors[node]= currColor;
+        Queue<Integer> q = new LinkedList<>();
+        q.add(node);
+        while(!q.isEmpty()){
+            int u = q.poll();
+                for(int v:adj[u]){
+                    if(colors[u]==colors[v]) return false;
+                    else if(colors[v]==-1){
+                        colors[v] = 1-colors[u];
+                        q.add(v);
+                    }
+                }
+        }
+        return true;
     }
 }

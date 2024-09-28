@@ -4,157 +4,121 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="5a6016dd-9084-41e3-9522-db5f6a2afe2a" name="Changes" comment="commit 5thApril2024">
-      <change afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/Workspace.iml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/AppendCharactersToStringMakeSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/ReactiveCodeHandleEventData.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebHookRepoImpl.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/WebhookDBConfiguration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/AddDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/AddOneRowToTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/AddTwoNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/AllAncestorsOfNodeDirectedAcyclicGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/AverageOfLevelsInBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Backtracking1/CombinationSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Backtracking1/WordSearch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/BalanceBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/BinarySearchTreeToGreaterSumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/BitwiseOrAllSubsequenceSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/BoatToSavePeople.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/BuildMatrixWithConditions.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/CompareVersionNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ContinuousSubarraySum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/CountNumberOfNiceSubarrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/CountPairsInTwoArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/CountSubstringsWithoutRepeatingCharacter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/CrawlerLogFolder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/CreateBinaryTreeFromDescription.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/DeleteLeavesWithAGivenValue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/DeleteNodeLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/DeleteNodesAndReturnForest.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/DistributeCoinsBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/DoubleNumberRepresentedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/EvaluateBooleanBinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindAllGroupsOfFarmland.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindAllLonelyNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindCenterOfStarGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindCommonCharacters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindIfPathExistsInGraph.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindLowestCommonAncesterOfTwoNodes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindTheMaxSafestDistanceInGrid.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindValidMatrixGivenRowAndColumnSums.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/FreedomTrails.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/GrumpyBookstoreOwner.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/HandOfStraights.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/HeightChecker.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/HeightOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/IPOLeetcode.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/IntersectionOfTwoArraysII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/JumpGameII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/KthSmallestPrimeFraction.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LakePerimeter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LargestLocalValuesMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LargestPositiveIntegerThatExistsWithItsNegative.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestCommonSubsequenceBetweenSortedArrays.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestIdealSubsequence.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestPalindrome.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestPallindromicSubString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LuckyNumberInMatrix.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MagneticForceBetweenTwoBalls.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximizeHappinessSelectedChildren.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumScoreFromRemovingSubstrings.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumScoreWordsFormedByLetters.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumTotalImportanceOfRoads.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimDifferenceBetweenLargestAndSmallestValueInThreeMoves.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumCostToBuyApple.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumFallingSumPathII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumHeightTrees.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumIncrementToMakeArrayUnique.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumNoOfDaysToMakeMBouquets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumNumberOfKConsecutiveBitFlips.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumNumberOfMovesToSeatEveryone.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumNumberOfOperationsToMakeArrayXOREqualToK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/MostProfitAssigningWork.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NoOfSpaceCleaningRobotsCleaned.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NthTribonacciNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfAtoms.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfGoodLeafNodesPairs.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfIslandII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfIslands.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfStudentsUnableToEatLunch.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberofStepstoReduceNumberBinaryRepresentationtoOne.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/OpenTheLock.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/PallindromePartitioning.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/PatchingArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/PathWithMaximumGold.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RangeSumOfBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ReactiveCodeDemo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RelativeRanking.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RelativeSortedArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RemoveDuplicatesFromanUnsortedLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RemoveKDigits.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RemoveNodesFromLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ReplaceWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/RevealCardsInIncreasingOrder.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ReversePrefixOfWord.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ReverseStringInPlace.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ReverseSubstringsBetweenEachPairofParentheses.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ScoreOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SmallestStringStartingFromLeaf.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Solution.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SortAnArray.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SortArraybyIncreasingFrequency.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SortColors.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SortListBasedOnLastDigit.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SortTheJumbledNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/StepByStepDirectionsFromBinaryTreeNodetoAnother.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SubarraySumsDivisibleByK.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Subsets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SubstringsThatBeginAndEndWithSameLetter.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/SumOfSquareNumbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/TheEarliestMomentWhenEveryoneBecomeFriends.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/ThreeConsecutiveOdds.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/TimeNeededToBuyTickets.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/UglyNumberIII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/VerifyPreorderSequenceBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/amazonSpring/OptimalPartitionOfString.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/amazonSpring/TheKthFactorofn.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/bfs/BTreeLevelOrderTraversalBottomUp.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/bfs/BTreeZigzagLevelOrderTraversalQueue.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/bfs/BinaryTreeLevelOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/bfs/BinaryTreeLevelOrderTraversalIteration.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/comparatorDemo/Student.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dayCount/practice/BinaryTree/BinarySearchTreeToGreaterSumTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dayCount/practice/BinaryTree/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dayCount/practice/BinaryTree/DeepestLeavesSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dayCount/practice/BinaryTree/RangeSumOfBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dayCount/practice/BinaryTree/SameTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/demo.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/demo1.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dfs/BinaryTreeInorderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dfs/FlattenABinaryTreeToLinkedList.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dfs/RecoverBST.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/dfs/ValidateBinarySearchTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/javaEight/practice/AllNumStartWithOnes.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/javaEight/practice/OddEvenNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/meta/BinaryTreeVerticalOrderTraversal.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/meta/LowestCommonAncestorOfABinaryTree.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/meta/NestedInteger.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/meta/NestedListWeightSum.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/meta/ValidWordAbbreviation.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/trie/ReplaceWords.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/workday/CourseScheduleII.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/workday/TwoSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prep/JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/JumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prep/LongestSubstringWithoutRepeatingCharacters.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/LongestSubstringWithoutRepeatingCharacters.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prep/ProductOfArrayExceptSelf.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/ProductOfArrayExceptSelf.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prep/SplitBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/SplitBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/com/prep/TrappingRainWater.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/TrappingRainWater.java" afterDir="false" />
+    <list default="true" id="5a6016dd-9084-41e3-9522-db5f6a2afe2a" name="Changes" comment="commit 24july2024">
+      <change afterPath="$PROJECT_DIR$/src/com/prep/AddTwoPolynomialsRepresentedAsLinkedLists.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/CombinationSumII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/Convert1DArrayInto2DArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/CountSubIslands.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/CountTheNumberOfConsistentStrings.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/CourseSchedule.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/CourseScheduleII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/DeleteNodesFromLinkedListPresentInArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/DifferentWaysToAddParentheses.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FillingBookcaseShelves.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindCityWiththeSmallestNumberNeighborsThresholdDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindKthSmallestPair.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindKthSmallestPairDistance.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindLongestSubstringContainingVowelsEven.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindMissingObservations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindSmallestRegion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindTheLengthOfTheLongestCommonPrefix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FindTheStudentThatWillReplaceTheChalk.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/FractionAdditionSubtraction.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/InsertGreatestCommonDivisorsInLinkedList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/IntegerToEnglishWords.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/IsSumPossible.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/KthLargestInAStream.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/KthSmallestLexicographicalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/LaragestNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/LemonadeChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/LexicographicalNumbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/LinkedListInBinaryTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestSubarrayWithMaximumBitwiseAND.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestWordWithAllPrefixes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MakeTwoArraysEqualByReversingSubarrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumDistanceArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumNumberOfPointsWithCost.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MeetingScheduler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MinSwapsToGroupAllOneTogether.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumBitFlipsToConvertNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumDeletionsMakeStringBalanced.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumMovesToGetPeacefulBoard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MinmumCostToConnectAllPoints.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MostStonesRemovedWithSameRowOrColumn.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MyCalendar.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MyCalendarTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MyCircularDeque.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberComplement.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfSeniorCitizens.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/PairsSongsWithTotalDurationsDivisibleBy60.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/PathWithMaximumProbability.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/RangeSumOfSortedSubarraySums.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/RegionsCutBySlashes.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/RemovingExtraCharactersInString.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/SpiralMatrixIII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/SpiralMatrixIV.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/SplitLinkedListinParts.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/StoneGameII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/StrangePrinter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/StringConversion.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/SumOfDigitsOfStringAfterConvert.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/Tictactoe.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/TossStrangeCoins.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/Twitter.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/TwoKeysKeyboard.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/UglynumberII.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/UncommonWordsFromTwoSentences.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/UnlockAndroidPatterns.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/WalkingRobotSimulation.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/XORQueriesSubarray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/binarySearch/SearchInRotatedSortedArray.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/ClimbingStairs.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/CoinChange.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/CountPath.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/FibonacciDP.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/HouseRobber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/HouseRubberTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/LongestIncreasingSubsequence.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/LongestStringChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaxPathSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaximumAlternatingSubsequenceSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaximumLengthOfPairChain.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MinimumNumberOfSquareNumber.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/NonAdjacentMaxSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/BFSTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/BellmanFordAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/BipartiteGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/CourseScheduleTwo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/CycleDetectionInDirectedGraphUsingBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/CycleDetectionInGraphBFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DetectACycleInGraphDFS.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DfsTraversal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DijkstraAlgoByCreatingAdjListMap.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DikjstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/EulerianPathCircuit.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/FloydWarshallAlgo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/KruskalAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/MinimumCostToConnectAllPointsUsingKrushkal.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/MinimumSpanningTree.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/PathWithMinimumEffort.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/PrepareAdjacencyList.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/ShortestPathInBinaryMatrix.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/ShortestPathWeightedUndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/StronglyConnectedComponents.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/TopoSortUsingBFSInDirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/TopologicalSortingADG.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/CountUnreachablePairsOfNodesInAnUndirectedGraph.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/CycleDetectionUsingDSU.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/DisjointSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/NumberOfOperationsToMakeNetworkConnected.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/SatisfiabilityOfEqualityEquations.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/disjointSetUsingPathCompressionAndRank.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graphConcept/DijkstraAlgorithm.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/graphConcept/FloydWarshallAlgo.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prep/NumberOfProvinces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/NumberOfProvinces.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/com/prep/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/Solution.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -165,6 +129,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Interface" />
+        <option value="AnnotationType" />
         <option value="Class" />
       </list>
     </option>
@@ -203,41 +168,65 @@
     "Application.AppendCharactersToStringMakeSubsequence.executor": "Run",
     "Application.ArbitaryPrecisionBigdecimal.executor": "Run",
     "Application.AverageOfLevelsInBinaryTree.executor": "Run",
+    "Application.BFSTraversal.executor": "Run",
     "Application.BTreeLevelOrderTraversalBottomUp.executor": "Run",
     "Application.BTreeZigzagLevelOrderTraversalQueue.executor": "Run",
     "Application.BagOfTokens.executor": "Run",
     "Application.BalanceBinarySearchTree.executor": "Run",
+    "Application.BellmanFordAlgo.executor": "Run",
     "Application.BinarySubarrayWithSum.executor": "Run",
     "Application.BinaryTreeInorderTraversal.executor": "Run",
     "Application.BinaryTreeLevelOrderTraversal.executor": "Run",
     "Application.BinaryTreeLevelOrderTraversalIteration.executor": "Run",
     "Application.BinaryTreeVerticalOrderTraversal.executor": "Run",
+    "Application.BipartiteGraph.executor": "Run",
     "Application.BoatToSavePeople.executor": "Run",
+    "Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.executor": "Run",
     "Application.CharCompare.executor": "Run",
     "Application.ClimbingStairs.executor": "Run",
+    "Application.CoinChange.executor": "Run",
     "Application.CombinationSum.executor": "Run",
+    "Application.CombinationSumII.executor": "Run",
     "Application.CombinationSumTwo.executor": "Run",
     "Application.CommonChild.executor": "Run",
     "Application.ContinguousArray.executor": "Run",
     "Application.ContinuousSubarraySum.executor": "Run",
+    "Application.Convert1DArrayInto2DArray.executor": "Run",
     "Application.CountElementsWithMaximumFrequency.executor": "Run",
     "Application.CountNumberOfNiceSubarrays.executor": "Run",
     "Application.CountNumberOfPairsWithAbsoluteDifferenceK.executor": "Run",
     "Application.CountPairsInTwoArrays.executor": "Run",
+    "Application.CountPath.executor": "Run",
+    "Application.CountSubIslands.executor": "Run",
     "Application.CountSubarraysWhereMaxElementAppearsatLeastKTimes.executor": "Debug",
     "Application.CountSubstringsWithoutRepeatingCharacter.executor": "Run",
+    "Application.CountTheNumberOfConsistentStrings.executor": "Run",
+    "Application.CountUnreachablePairsOfNodesInAnUndirectedGraph.executor": "Run",
+    "Application.CourseSchedule.executor": "Run",
     "Application.CourseScheduleII.executor": "Run",
+    "Application.CourseScheduleTwo.executor": "Run",
     "Application.CrawlerLogFolder.executor": "Run",
     "Application.CustomSortString.executor": "Run",
+    "Application.CycleDetectionInDirectedGraphUsingBFS.executor": "Run",
+    "Application.CycleDetectionInGraphBFS.executor": "Run",
+    "Application.CycleDetectionUsingDSU.executor": "Run",
     "Application.DavisStairCase.executor": "Run",
     "Application.DeepestLeavesSum.executor": "Run",
     "Application.DeleteLeavesWithAGivenValue.executor": "Run",
     "Application.DeleteNodeInBST.executor": "Run",
     "Application.DeleteNodesAndReturnForest.executor": "Run",
+    "Application.DeleteNodesFromLinkedListPresentInArray.executor": "Run",
+    "Application.DetectACycleInGraphDFS.executor": "Run",
+    "Application.DfsTraversal.executor": "Run",
     "Application.DiameterOfABinaryTree.executor": "Run",
+    "Application.DifferentWaysToAddParentheses.executor": "Run",
+    "Application.DijkstraAlgoByCreatingAdjListMap.executor": "Run",
+    "Application.DikjstraAlgorithm.executor": "Run",
     "Application.DistributeCoinsBinaryTree.executor": "Run",
     "Application.DoubleNumberRepresentedLinkedList.executor": "Run",
     "Application.EvaluateBooleanBinaryTree.executor": "Run",
+    "Application.FibonacciDP.executor": "Run",
+    "Application.FillingBookcaseShelves.executor": "Run",
     "Application.FindAllDuplicatesArray.executor": "Run",
     "Application.FindAllLonelyNodes.executor": "Run",
     "Application.FindCenterOfStarGraph.executor": "Run",
@@ -246,15 +235,24 @@
     "Application.FindFirstPalindromicStringintheArray.executor": "Run",
     "Application.FindIfPathExistsInGraph.executor": "Run",
     "Application.FindKthLargestIntegerInTheArray.executor": "Run",
+    "Application.FindKthSmallestPair.executor": "Run",
+    "Application.FindKthSmallestPairDistance.executor": "Run",
+    "Application.FindLongestSubstringContainingVowelsEven.executor": "Run",
     "Application.FindLowestCommonAncesterOfTwoNodes.executor": "Run",
+    "Application.FindMissingObservations.executor": "Run",
     "Application.FindPivotInteger.executor": "Run",
     "Application.FindPolygonWithTheLargestPerimeter.executor": "Run",
     "Application.FindResultantArrayAfterRemovingAnagrams.executor": "Run",
+    "Application.FindSmallestRegion.executor": "Run",
     "Application.FindTheDifferenceOfTwoArrays.executor": "Run",
+    "Application.FindTheLengthOfTheLongestCommonPrefix.executor": "Run",
     "Application.FindTheMaxSafestDistanceInGrid.executor": "Run",
+    "Application.FindTheStudentThatWillReplaceTheChalk.executor": "Run",
     "Application.FindTheTownJudge.executor": "Run",
     "Application.FirstMissingPositiveNumber.executor": "Run",
     "Application.FirstUniqueCharacterInAString.executor": "Run",
+    "Application.FloydWarshallAlgo.executor": "Run",
+    "Application.FractionAdditionSubtraction.executor": "Run",
     "Application.FreedomTrails.executor": "Run",
     "Application.FruitIntoBaskets.executor": "Run",
     "Application.FurthestBuildingYouCanReach.executor": "Run",
@@ -264,13 +262,19 @@
     "Application.HandOfStraights.executor": "Run",
     "Application.HeapSort.executor": "Run",
     "Application.HeightOfABinaryTree.executor": "Run",
+    "Application.HouseRobber.executor": "Run",
+    "Application.HouseRubberTwo.executor": "Run",
+    "Application.InsertGreatestCommonDivisorsInLinkedList.executor": "Run",
     "Application.IntersectionOfTwoArrays.executor": "Run",
+    "Application.IsSumPossible.executor": "Run",
     "Application.IsomorphicString.executor": "Run",
     "Application.JavaStringIntroduction.executor": "Run",
     "Application.JumpGame.executor": "Run",
     "Application.JumpGameII.executor": "Run",
     "Application.KeysAndRooms.executor": "Run",
+    "Application.KruskalAlgorithm.executor": "Run",
     "Application.KthLargestElement.executor": "Debug",
+    "Application.KthSmallestLexicographicalNumbers.executor": "Run",
     "Application.KthSmallestPrimeFraction.executor": "Run",
     "Application.LakePerimeter.executor": "Run",
     "Application.LargestDivisibleSubset.executor": "Run",
@@ -279,34 +283,46 @@
     "Application.LargestRectangleInHistogram.executor": "Run",
     "Application.LeastNumberOfUniqueIntegersAfterKRemovals.executor": "Run",
     "Application.LeftRotation.executor": "Run",
+    "Application.LemonadeChange.executor": "Run",
     "Application.LengthOfLastWord.executor": "Run",
     "Application.LengthOfLongestSubarrayWithAtMostKFrequency.executor": "Run",
     "Application.LetterCombinationOfAPhoneNumber.executor": "Run",
+    "Application.LexicographicalNumbers.executor": "Run",
     "Application.LinkedListFrequency.executor": "Run",
+    "Application.LinkedListInBinaryTree.executor": "Run",
     "Application.LongestCommonSubsequence.executor": "Run",
     "Application.LongestCommonSubsequenceBetweenSortedArrays.executor": "Run",
     "Application.LongestIdealSubsequence.executor": "Debug",
     "Application.LongestIncreasingSubsequence.executor": "Run",
     "Application.LongestPalindrome.executor": "Run",
     "Application.LongestPallindromicSubString.executor": "Run",
+    "Application.LongestStringChain.executor": "Run",
     "Application.LongestSubarrayOf1AfterDeletingOneElement.executor": "Run",
+    "Application.LongestSubarrayWithMaximumBitwiseAND.executor": "Run",
     "Application.LongestSubstringWithAtMostKDistinctCharacters.executor": "Run",
     "Application.LongestSubstringWithAtMostTwoDistinctCharacters.executor": "Run",
     "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Run",
+    "Application.LongestWordWithAllPrefixes.executor": "Run",
     "Application.LuckyNumberInMatrix.executor": "Run",
     "Application.MagneticForceBetweenTwoBalls.executor": "Run",
     "Application.Main.executor": "Run",
     "Application.MajorityElement.executor": "Run",
     "Application.MakeTheStringGreat.executor": "Run",
+    "Application.MakeTwoArraysEqualByReversingSubarrays.executor": "Run",
     "Application.MakingAnagram.executor": "Run",
     "Application.MaxArraySum.executor": "Run",
     "Application.MaxConsecutiveOnesIII.executor": "Run",
     "Application.MaxDepthOfBinaryTree.executor": "Run",
     "Application.MaxHeap.executor": "Run",
     "Application.MaxNumberOfKSumPairs.executor": "Run",
+    "Application.MaxPathSum.executor": "Run",
     "Application.MaximizeHappinessSelectedChildren.executor": "Run",
+    "Application.MaximumAlternatingSubsequenceSum.executor": "Run",
     "Application.MaximumAvarageSubArrayI.executor": "Run",
+    "Application.MaximumDistanceArrays.executor": "Run",
+    "Application.MaximumLengthOfPairChain.executor": "Run",
     "Application.MaximumNestingDepthOfParentheses.executor": "Run",
+    "Application.MaximumNumberOfPointsWithCost.executor": "Run",
     "Application.MaximumNumberOfVowelInSubstringOfKLength.executor": "Run",
     "Application.MaximumOddBinaryNumber.executor": "Run",
     "Application.MaximumScoreFromRemovingSubstrings.executor": "Run",
@@ -314,48 +330,68 @@
     "Application.MaximumTotalImportanceOfRoads.executor": "Run",
     "Application.MedianOfTwoSortedArrays.executor": "Run",
     "Application.MeetingRoomII.executor": "Run",
+    "Application.MeetingScheduler.executor": "Run",
     "Application.MergeInbetweenLinkedList.executor": "Run",
     "Application.MergeIntervals.executor": "Run",
     "Application.MinLengthOfStringAfterDeletingSimilarEnds.executor": "Run",
+    "Application.MinSwapsToGroupAllOneTogether.executor": "Run",
     "Application.MinimDifferenceBetweenLargestAndSmallestValueInThreeMoves.executor": "Run",
+    "Application.MinimumBitFlipsToConvertNumber.executor": "Run",
     "Application.MinimumCommonValue.executor": "Run",
+    "Application.MinimumCostToConnectAllPointsUsingKrushkal.executor": "Run",
+    "Application.MinimumDeletionsMakeStringBalanced.executor": "Run",
     "Application.MinimumFallingSumPathII.executor": "Run",
     "Application.MinimumHeightTrees.executor": "Run",
     "Application.MinimumIncrementToMakeArrayUnique.executor": "Run",
+    "Application.MinimumMovesToGetPeacefulBoard.executor": "Run",
     "Application.MinimumNumberArrowsBurstBalloons.executor": "Run",
     "Application.MinimumNumberOfMovesToSeatEveryone.executor": "Run",
     "Application.MinimumNumberOfOperationsToMakeArrayXOREqualToK.executor": "Run",
+    "Application.MinimumNumberOfSquareNumber.executor": "Run",
     "Application.MinimumRemoveToMakeValidParentheses.executor": "Run",
+    "Application.MinimumSpanningTree.executor": "Run",
     "Application.MinimumWindowSubstring.executor": "Run",
+    "Application.MinmumCostToConnectAllPoints.executor": "Run",
     "Application.MissingNumber.executor": "Run",
     "Application.MostProfitAssigningWork.executor": "Run",
+    "Application.MostStonesRemovedWithSameRowOrColumn.executor": "Run",
     "Application.NoOfSpaceCleaningRobotsCleaned.executor": "Run",
+    "Application.NonAdjacentMaxSum.executor": "Run",
     "Application.NthTribonacciNumber.executor": "Run",
+    "Application.NumberComplement.executor": "Run",
     "Application.NumberOfAtoms.executor": "Run",
     "Application.NumberOfGoodLeafNodesPairs.executor": "Run",
     "Application.NumberOfIslandII.executor": "Run",
     "Application.NumberOfIslands.executor": "Run",
+    "Application.NumberOfOperationsToMakeNetworkConnected.executor": "Run",
     "Application.NumberOfProvinces.executor": "Run",
+    "Application.NumberOfSeniorCitizens.executor": "Run",
     "Application.NumberOfStudentsUnableToEatLunch.executor": "Run",
     "Application.NumberofStepstoReduceNumberBinaryRepresentationtoOne.executor": "Debug",
     "Application.OddEvenNumber.executor": "Run",
     "Application.OptimalPartitionOfString.executor": "Run",
     "Application.PaintFence.executor": "Run",
+    "Application.PairsSongsWithTotalDurationsDivisibleBy60.executor": "Run",
     "Application.PalindromicSubstrings.executor": "Run",
     "Application.PallindromeLinkedList.executor": "Run",
     "Application.PallindromeSubstring.executor": "Run",
     "Application.PartitionArrayForMaximumSum.executor": "Run",
     "Application.PatchingArray.executor": "Run",
     "Application.PathWithMaximumGold.executor": "Run",
+    "Application.PathWithMaximumProbability.executor": "Run",
+    "Application.PathWithMinimumEffort.executor": "Run",
     "Application.PatternSyntaxChecker.executor": "Run",
     "Application.PerfectSquares.executor": "Run",
     "Application.PowerOfThree.executor": "Debug",
     "Application.PowerOfTwo.executor": "Run",
     "Application.PowerXN.executor": "Run",
+    "Application.PrepareAdjacencyList.executor": "Run",
     "Application.ProductOfArrayExceptSelf.executor": "Run",
     "Application.RangeSumOfBST.executor": "Run",
+    "Application.RangeSumOfSortedSubarraySums.executor": "Run",
     "Application.RearrangeArrayElementsbySign.executor": "Run",
     "Application.RearrangingFruits.executor": "Run",
+    "Application.RegionsCutBySlashes.executor": "Run",
     "Application.RelativeRanking.executor": "Run",
     "Application.RemovalOfVowelsFromString.executor": "Run",
     "Application.RemoveDuplicateLetters.executor": "Run",
@@ -372,8 +408,12 @@
     "Application.ReverseStringInPlace.executor": "Run",
     "Application.ReverseSubstringsBetweenEachPairofParentheses.executor": "Run",
     "Application.SameTree.executor": "Run",
+    "Application.SatisfiabilityOfEqualityEquations.executor": "Run",
     "Application.ScoreOfString.executor": "Run",
+    "Application.SearchInRotatedSortedArray.executor": "Run",
     "Application.SherlockAndTheValidString.executor": "Run",
+    "Application.ShortestPathInBinaryMatrix.executor": "Run",
+    "Application.ShortestPathWeightedUndirectedGraph.executor": "Run",
     "Application.SmallestStringStartingFromLeaf.executor": "Run",
     "Application.SmallestSubsequenceOfDistinctCharacters.executor": "Run",
     "Application.Solution.executor": "Run",
@@ -383,29 +423,44 @@
     "Application.SortListBasedOnLastDigit.executor": "Run",
     "Application.SortTheJumbledNumbers.executor": "Run",
     "Application.SpecialSubStringAgain.executor": "Run",
+    "Application.SpiralMatrixIV.executor": "Run",
     "Application.SplitBST.executor": "Debug",
+    "Application.SplitLinkedListinParts.executor": "Run",
     "Application.SquaresOfASortedArray.executor": "Run",
     "Application.StepByStepDirectionsFromBinaryTreeNodetoAnother.executor": "Run",
+    "Application.StoneGameII.executor": "Run",
+    "Application.StrangePrinter.executor": "Run",
+    "Application.StringConversion.executor": "Run",
     "Application.StringLargestAndSmallest.executor": "Run",
+    "Application.StronglyConnectedComponents.executor": "Run",
     "Application.SubarrayProductLessThanK.executor": "Run",
     "Application.SubarraySumsDivisibleByK.executor": "Run",
     "Application.SubstringsThatBeginAndEndWithSameLetter.executor": "Run",
     "Application.SudokuSolver.executor": "Run",
+    "Application.SumOfDigitsOfStringAfterConvert.executor": "Run",
     "Application.SuperDigits.executor": "Run",
     "Application.TaskScheduler.executor": "Run",
     "Application.TheEarliestMomentWhenEveryoneBecomeFriends.executor": "Run",
     "Application.TheKthFactorofn.executor": "Run",
     "Application.ThreeConsecutiveOdds.executor": "Run",
     "Application.TimeNeededToBuyTickets.executor": "Run",
+    "Application.TopoSortUsingBFSInDirectedGraph.executor": "Run",
+    "Application.TopologicalSortingADG.executor": "Run",
     "Application.TrappingRainWater.executor": "Run",
+    "Application.TwoKeysKeyboard.executor": "Run",
     "Application.TwoStrings.executor": "Run",
     "Application.TwoSum.executor": "Run",
     "Application.UglyNumberIII.executor": "Run",
+    "Application.UglynumberII.executor": "Debug",
+    "Application.UncommonWordsFromTwoSentences.executor": "Run",
+    "Application.UnlockAndroidPatterns.executor": "Run",
     "Application.ValidWordAbbreviation.executor": "Run",
     "Application.ValidateBinarySearchTree.executor": "Run",
     "Application.VerifyPreorderSequenceBinarySearchTree.executor": "Run",
+    "Application.WalkingRobotSimulation.executor": "Run",
     "Application.WordSearch.executor": "Run",
     "Application.WordSearchII.executor": "Run",
+    "Application.XORQueriesSubarray.executor": "Run",
     "Application.check.executor": "Run",
     "Application.com.prep.comparatorDemo.Solution.executor": "Run",
     "Application.com.prep.trie.ReplaceWords.executor": "Run",
@@ -420,13 +475,13 @@
     "project.structure.side.proportion": "0.0"
   }
 }]]></component>
-  <component name="RunManager" selected="Application.SortAnArray">
-    <configuration name="SortAnArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.SortAnArray" />
+  <component name="RunManager" selected="Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons">
+    <configuration name="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.dynamicProgramming.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.*" />
+          <option name="PATTERN" value="com.prep.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -434,12 +489,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortArraybyIncreasingFrequency" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.SortArraybyIncreasingFrequency" />
+    <configuration name="LongestIncreasingSubsequence" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.dynamicProgramming.LongestIncreasingSubsequence" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.*" />
+          <option name="PATTERN" value="com.prep.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -447,12 +502,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortListBasedOnLastDigit" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.SortListBasedOnLastDigit" />
+    <configuration name="LongestStringChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.dynamicProgramming.LongestStringChain" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.*" />
+          <option name="PATTERN" value="com.prep.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -460,12 +515,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SortTheJumbledNumbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.SortTheJumbledNumbers" />
+    <configuration name="MaximumAlternatingSubsequenceSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.dynamicProgramming.MaximumAlternatingSubsequenceSum" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.*" />
+          <option name="PATTERN" value="com.prep.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -473,12 +528,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="com.prep.comparatorDemo.Solution" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.comparatorDemo.Solution" />
+    <configuration name="MaximumLengthOfPairChain" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.dynamicProgramming.MaximumLengthOfPairChain" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.comparatorDemo.*" />
+          <option name="PATTERN" value="com.prep.dynamicProgramming.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -488,11 +543,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.SortAnArray" />
-        <item itemvalue="Application.com.prep.comparatorDemo.Solution" />
-        <item itemvalue="Application.SortListBasedOnLastDigit" />
-        <item itemvalue="Application.SortTheJumbledNumbers" />
-        <item itemvalue="Application.SortArraybyIncreasingFrequency" />
+        <item itemvalue="Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons" />
+        <item itemvalue="Application.LongestStringChain" />
+        <item itemvalue="Application.MaximumLengthOfPairChain" />
+        <item itemvalue="Application.LongestIncreasingSubsequence" />
+        <item itemvalue="Application.MaximumAlternatingSubsequenceSum" />
       </list>
     </recent_temporary>
   </component>
@@ -686,6 +741,72 @@
           <url>file://$PROJECT_DIR$/src/com/prep/SortAnArray.java</url>
           <line>11</line>
           <option name="timeStamp" value="55" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/dynamicProgramming/CoinChange.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="56" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/MinSwapsToGroupAllOneTogether.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="58" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/LemonadeChange.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="59" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/MaximumDistanceArrays.java</url>
+          <line>18</line>
+          <option name="timeStamp" value="60" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/MaximumNumberOfPointsWithCost.java</url>
+          <line>42</line>
+          <option name="timeStamp" value="61" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/FindKthSmallestPair.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="62" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/FindMissingObservations.java</url>
+          <line>15</line>
+          <option name="timeStamp" value="63" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/DeleteNodesFromLinkedListPresentInArray.java</url>
+          <line>24</line>
+          <option name="timeStamp" value="64" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/FindLongestSubstringContainingVowelsEven.java</url>
+          <line>13</line>
+          <option name="timeStamp" value="65" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/graph/FloydWarshallAlgo.java</url>
+          <line>19</line>
+          <option name="timeStamp" value="67" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/graph/MinimumSpanningTree.java</url>
+          <line>30</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="68" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/com/prep/graph/KruskalAlgorithm.java</url>
+          <line>38</line>
+          <properties>
+            <option name="lambda-ordinal" value="-1" />
+          </properties>
+          <option name="timeStamp" value="69" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>
