@@ -10,9 +10,9 @@ class TrieNode{
         children = new TrieNode[26];
     }
 }
-class Trie{
+class Trie1{
     private TrieNode root;
-    public Trie(){
+    public Trie1(){
         root = new TrieNode();
     }
     public void insert(String word){
