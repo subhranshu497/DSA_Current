@@ -1,0 +1,777 @@
+Index: .idea/workspace.xml
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.BaseRevisionTextPatchEP
+<+><?xml version=\"1.0\" encoding=\"UTF-8\"?>\n<project version=\"4\">\n  <component name=\"AutoImportSettings\">\n    <option name=\"autoReloadType\" value=\"SELECTIVE\" />\n  </component>\n  <component name=\"ChangeListManager\">\n    <list default=\"true\" id=\"5a6016dd-9084-41e3-9522-db5f6a2afe2a\" name=\"Changes\" comment=\"commit 24july2024\">\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/AddTwoPolynomialsRepresentedAsLinkedLists.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/CombinationSumII.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/Convert1DArrayInto2DArray.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/CountSubIslands.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/CountTheNumberOfConsistentStrings.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/CourseSchedule.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/CourseScheduleII.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/DeleteNodesFromLinkedListPresentInArray.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/DifferentWaysToAddParentheses.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FillingBookcaseShelves.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindCityWiththeSmallestNumberNeighborsThresholdDistance.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindKthSmallestPair.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindKthSmallestPairDistance.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindLongestSubstringContainingVowelsEven.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindMissingObservations.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindSmallestRegion.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindTheLengthOfTheLongestCommonPrefix.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FindTheStudentThatWillReplaceTheChalk.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/FractionAdditionSubtraction.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/InsertGreatestCommonDivisorsInLinkedList.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/IntegerToEnglishWords.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/IsSumPossible.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/KthLargestInAStream.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/KthSmallestLexicographicalNumbers.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/LaragestNumber.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/LemonadeChange.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/LexicographicalNumbers.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/LinkedListInBinaryTree.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/LongestSubarrayWithMaximumBitwiseAND.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/LongestWordWithAllPrefixes.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MakeTwoArraysEqualByReversingSubarrays.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MaximumDistanceArrays.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MaximumNumberOfPointsWithCost.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MeetingScheduler.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MinSwapsToGroupAllOneTogether.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MinimumBitFlipsToConvertNumber.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MinimumDeletionsMakeStringBalanced.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MinimumMovesToGetPeacefulBoard.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MinmumCostToConnectAllPoints.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MostStonesRemovedWithSameRowOrColumn.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MyCalendar.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MyCalendarTwo.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/MyCircularDeque.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/NumberComplement.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/NumberOfSeniorCitizens.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/PairsSongsWithTotalDurationsDivisibleBy60.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/PathWithMaximumProbability.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/RangeSumOfSortedSubarraySums.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/RegionsCutBySlashes.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/RemovingExtraCharactersInString.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/SpiralMatrixIII.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/SpiralMatrixIV.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/SplitLinkedListinParts.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/StoneGameII.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/StrangePrinter.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/StringConversion.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/SumOfDigitsOfStringAfterConvert.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/Tictactoe.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/TossStrangeCoins.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/Twitter.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/TwoKeysKeyboard.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/UglynumberII.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/UncommonWordsFromTwoSentences.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/UnlockAndroidPatterns.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/WalkingRobotSimulation.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/XORQueriesSubarray.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/binarySearch/SearchInRotatedSortedArray.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/ClimbingStairs.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/CoinChange.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/CountPath.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/FibonacciDP.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/HouseRobber.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/HouseRubberTwo.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/LongestIncreasingSubsequence.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/LongestStringChain.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaxPathSum.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaximumAlternatingSubsequenceSum.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaximumLengthOfPairChain.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/MinimumNumberOfSquareNumber.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/dynamicProgramming/NonAdjacentMaxSum.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/BFSTraversal.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/BellmanFordAlgo.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/BipartiteGraph.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/CourseScheduleTwo.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/CycleDetectionInDirectedGraphUsingBFS.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/CycleDetectionInGraphBFS.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/DetectACycleInGraphDFS.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/DfsTraversal.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/DijkstraAlgoByCreatingAdjListMap.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/DikjstraAlgorithm.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/EulerianPathCircuit.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/FloydWarshallAlgo.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/KruskalAlgorithm.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/MinimumCostToConnectAllPointsUsingKrushkal.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/MinimumSpanningTree.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/PathWithMinimumEffort.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/PrepareAdjacencyList.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/ShortestPathInBinaryMatrix.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/ShortestPathWeightedUndirectedGraph.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/StronglyConnectedComponents.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/TopoSortUsingBFSInDirectedGraph.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/TopologicalSortingADG.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/CountUnreachablePairsOfNodesInAnUndirectedGraph.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/CycleDetectionUsingDSU.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/DisjointSet.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/NumberOfOperationsToMakeNetworkConnected.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/SatisfiabilityOfEqualityEquations.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/disjointSetUsingPathCompressionAndRank.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graphConcept/DijkstraAlgorithm.java\" afterDir=\"false\" />\n      <change afterPath=\"$PROJECT_DIR$/src/com/prep/graphConcept/FloydWarshallAlgo.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/.idea/workspace.xml\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/.idea/workspace.xml\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/com/prep/NumberOfProvinces.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/prep/NumberOfProvinces.java\" afterDir=\"false\" />\n      <change beforePath=\"$PROJECT_DIR$/src/com/prep/Solution.java\" beforeDir=\"false\" afterPath=\"$PROJECT_DIR$/src/com/prep/Solution.java\" afterDir=\"false\" />\n    </list>\n    <option name=\"SHOW_DIALOG\" value=\"false\" />\n    <option name=\"HIGHLIGHT_CONFLICTS\" value=\"true\" />\n    <option name=\"HIGHLIGHT_NON_ACTIVE_CHANGELIST\" value=\"false\" />\n    <option name=\"LAST_RESOLUTION\" value=\"IGNORE\" />\n  </component>\n  <component name=\"FileTemplateManagerImpl\">\n    <option name=\"RECENT_TEMPLATES\">\n      <list>\n        <option value=\"Interface\" />\n        <option value=\"AnnotationType\" />\n        <option value=\"Class\" />\n      </list>\n    </option>\n  </component>\n  <component name=\"Git.Settings\">\n    <option name=\"RECENT_GIT_ROOT_PATH\" value=\"$PROJECT_DIR$\" />\n  </component>\n  <component name=\"GitHubPullRequestSearchHistory\">{\n  &quot;lastFilter&quot;: {\n    &quot;state&quot;: &quot;OPEN&quot;,\n    &quot;assignee&quot;: &quot;subhranshu497&quot;\n  }\n}</component>\n  <component name=\"GithubPullRequestsUISettings\">\n    <option name=\"selectedUrlAndAccountId\">\n      <UrlAndAccount>\n        <option name=\"accountId\" value=\"a1fc1c4a-f5f8-458e-a07d-002dda2f500e\" />\n        <option name=\"url\" value=\"https://github.com/subhranshu497/DSTC_ALGO\" />\n      </UrlAndAccount>\n    </option>\n  </component>\n  <component name=\"ProjectColorInfo\">{\n  &quot;associatedIndex&quot;: 4\n}</component>\n  <component name=\"ProjectId\" id=\"2bnEJK2nfuVh6z1Dyktcbgtv7BX\" />\n  <component name=\"ProjectLevelVcsManager\" settingsEditedManually=\"true\" />\n  <component name=\"ProjectViewState\">\n    <option name=\"hideEmptyMiddlePackages\" value=\"true\" />\n    <option name=\"showLibraryContents\" value=\"true\" />\n  </component>\n  <component name=\"PropertiesComponent\"><![CDATA[{\n  \"keyToString\": {\n    \"Application.AddDigits.executor\": \"Run\",\n    \"Application.AddTwoNumbers.executor\": \"Run\",\n    \"Application.AllNumStartWithOnes.executor\": \"Run\",\n    \"Application.AppendCharactersToStringMakeSubsequence.executor\": \"Run\",\n    \"Application.ArbitaryPrecisionBigdecimal.executor\": \"Run\",\n    \"Application.AverageOfLevelsInBinaryTree.executor\": \"Run\",\n    \"Application.BFSTraversal.executor\": \"Run\",\n    \"Application.BTreeLevelOrderTraversalBottomUp.executor\": \"Run\",\n    \"Application.BTreeZigzagLevelOrderTraversalQueue.executor\": \"Run\",\n    \"Application.BagOfTokens.executor\": \"Run\",\n    \"Application.BalanceBinarySearchTree.executor\": \"Run\",\n    \"Application.BellmanFordAlgo.executor\": \"Run\",\n    \"Application.BinarySubarrayWithSum.executor\": \"Run\",\n    \"Application.BinaryTreeInorderTraversal.executor\": \"Run\",\n    \"Application.BinaryTreeLevelOrderTraversal.executor\": \"Run\",\n    \"Application.BinaryTreeLevelOrderTraversalIteration.executor\": \"Run\",\n    \"Application.BinaryTreeVerticalOrderTraversal.executor\": \"Run\",\n    \"Application.BipartiteGraph.executor\": \"Run\",\n    \"Application.BoatToSavePeople.executor\": \"Run\",\n    \"Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.executor\": \"Run\",\n    \"Application.CharCompare.executor\": \"Run\",\n    \"Application.ClimbingStairs.executor\": \"Run\",\n    \"Application.CoinChange.executor\": \"Run\",\n    \"Application.CombinationSum.executor\": \"Run\",\n    \"Application.CombinationSumII.executor\": \"Run\",\n    \"Application.CombinationSumTwo.executor\": \"Run\",\n    \"Application.CommonChild.executor\": \"Run\",\n    \"Application.ContinguousArray.executor\": \"Run\",\n    \"Application.ContinuousSubarraySum.executor\": \"Run\",\n    \"Application.Convert1DArrayInto2DArray.executor\": \"Run\",\n    \"Application.CountElementsWithMaximumFrequency.executor\": \"Run\",\n    \"Application.CountNumberOfNiceSubarrays.executor\": \"Run\",\n    \"Application.CountNumberOfPairsWithAbsoluteDifferenceK.executor\": \"Run\",\n    \"Application.CountPairsInTwoArrays.executor\": \"Run\",\n    \"Application.CountPath.executor\": \"Run\",\n    \"Application.CountSubIslands.executor\": \"Run\",\n    \"Application.CountSubarraysWhereMaxElementAppearsatLeastKTimes.executor\": \"Debug\",\n    \"Application.CountSubstringsWithoutRepeatingCharacter.executor\": \"Run\",\n    \"Application.CountTheNumberOfConsistentStrings.executor\": \"Run\",\n    \"Application.CountUnreachablePairsOfNodesInAnUndirectedGraph.executor\": \"Run\",\n    \"Application.CourseSchedule.executor\": \"Run\",\n    \"Application.CourseScheduleII.executor\": \"Run\",\n    \"Application.CourseScheduleTwo.executor\": \"Run\",\n    \"Application.CrawlerLogFolder.executor\": \"Run\",\n    \"Application.CustomSortString.executor\": \"Run\",\n    \"Application.CycleDetectionInDirectedGraphUsingBFS.executor\": \"Run\",\n    \"Application.CycleDetectionInGraphBFS.executor\": \"Run\",\n    \"Application.CycleDetectionUsingDSU.executor\": \"Run\",\n    \"Application.DavisStairCase.executor\": \"Run\",\n    \"Application.DeepestLeavesSum.executor\": \"Run\",\n    \"Application.DeleteLeavesWithAGivenValue.executor\": \"Run\",\n    \"Application.DeleteNodeInBST.executor\": \"Run\",\n    \"Application.DeleteNodesAndReturnForest.executor\": \"Run\",\n    \"Application.DeleteNodesFromLinkedListPresentInArray.executor\": \"Run\",\n    \"Application.DetectACycleInGraphDFS.executor\": \"Run\",\n    \"Application.DfsTraversal.executor\": \"Run\",\n    \"Application.DiameterOfABinaryTree.executor\": \"Run\",\n    \"Application.DifferentWaysToAddParentheses.executor\": \"Run\",\n    \"Application.DijkstraAlgoByCreatingAdjListMap.executor\": \"Run\",\n    \"Application.DikjstraAlgorithm.executor\": \"Run\",\n    \"Application.DistributeCoinsBinaryTree.executor\": \"Run\",\n    \"Application.DoubleNumberRepresentedLinkedList.executor\": \"Run\",\n    \"Application.EvaluateBooleanBinaryTree.executor\": \"Run\",\n    \"Application.FibonacciDP.executor\": \"Run\",\n    \"Application.FillingBookcaseShelves.executor\": \"Run\",\n    \"Application.FindAllDuplicatesArray.executor\": \"Run\",\n    \"Application.FindAllLonelyNodes.executor\": \"Run\",\n    \"Application.FindCenterOfStarGraph.executor\": \"Run\",\n    \"Application.FindCommonCharacters.executor\": \"Run\",\n    \"Application.FindDuplicateNumber.executor\": \"Run\",\n    \"Application.FindFirstPalindromicStringintheArray.executor\": \"Run\",\n    \"Application.FindIfPathExistsInGraph.executor\": \"Run\",\n    \"Application.FindKthLargestIntegerInTheArray.executor\": \"Run\",\n    \"Application.FindKthSmallestPair.executor\": \"Run\",\n    \"Application.FindKthSmallestPairDistance.executor\": \"Run\",\n    \"Application.FindLongestSubstringContainingVowelsEven.executor\": \"Run\",\n    \"Application.FindLowestCommonAncesterOfTwoNodes.executor\": \"Run\",\n    \"Application.FindMissingObservations.executor\": \"Run\",\n    \"Application.FindPivotInteger.executor\": \"Run\",\n    \"Application.FindPolygonWithTheLargestPerimeter.executor\": \"Run\",\n    \"Application.FindResultantArrayAfterRemovingAnagrams.executor\": \"Run\",\n    \"Application.FindSmallestRegion.executor\": \"Run\",\n    \"Application.FindTheDifferenceOfTwoArrays.executor\": \"Run\",\n    \"Application.FindTheLengthOfTheLongestCommonPrefix.executor\": \"Run\",\n    \"Application.FindTheMaxSafestDistanceInGrid.executor\": \"Run\",\n    \"Application.FindTheStudentThatWillReplaceTheChalk.executor\": \"Run\",\n    \"Application.FindTheTownJudge.executor\": \"Run\",\n    \"Application.FirstMissingPositiveNumber.executor\": \"Run\",\n    \"Application.FirstUniqueCharacterInAString.executor\": \"Run\",\n    \"Application.FloydWarshallAlgo.executor\": \"Run\",\n    \"Application.FractionAdditionSubtraction.executor\": \"Run\",\n    \"Application.FreedomTrails.executor\": \"Run\",\n    \"Application.FruitIntoBaskets.executor\": \"Run\",\n    \"Application.FurthestBuildingYouCanReach.executor\": \"Run\",\n    \"Application.GenerateParenthesis.executor\": \"Run\",\n    \"Application.GreatestCommonDiviser.executor\": \"Run\",\n    \"Application.GrumpyBookstoreOwner.executor\": \"Run\",\n    \"Application.HandOfStraights.executor\": \"Run\",\n    \"Application.HeapSort.executor\": \"Run\",\n    \"Application.HeightOfABinaryTree.executor\": \"Run\",\n    \"Application.HouseRobber.executor\": \"Run\",\n    \"Application.HouseRubberTwo.executor\": \"Run\",\n    \"Application.InsertGreatestCommonDivisorsInLinkedList.executor\": \"Run\",\n    \"Application.IntersectionOfTwoArrays.executor\": \"Run\",\n    \"Application.IsSumPossible.executor\": \"Run\",\n    \"Application.IsomorphicString.executor\": \"Run\",\n    \"Application.JavaStringIntroduction.executor\": \"Run\",\n    \"Application.JumpGame.executor\": \"Run\",\n    \"Application.JumpGameII.executor\": \"Run\",\n    \"Application.KeysAndRooms.executor\": \"Run\",\n    \"Application.KruskalAlgorithm.executor\": \"Run\",\n    \"Application.KthLargestElement.executor\": \"Debug\",\n    \"Application.KthSmallestLexicographicalNumbers.executor\": \"Run\",\n    \"Application.KthSmallestPrimeFraction.executor\": \"Run\",\n    \"Application.LakePerimeter.executor\": \"Run\",\n    \"Application.LargestDivisibleSubset.executor\": \"Run\",\n    \"Application.LargestLocalValuesMatrix.executor\": \"Run\",\n    \"Application.LargestPositiveIntegerThatExistsWithItsNegative.executor\": \"Run\",\n    \"Application.LargestRectangleInHistogram.executor\": \"Run\",\n    \"Application.LeastNumberOfUniqueIntegersAfterKRemovals.executor\": \"Run\",\n    \"Application.LeftRotation.executor\": \"Run\",\n    \"Application.LemonadeChange.executor\": \"Run\",\n    \"Application.LengthOfLastWord.executor\": \"Run\",\n    \"Application.LengthOfLongestSubarrayWithAtMostKFrequency.executor\": \"Run\",\n    \"Application.LetterCombinationOfAPhoneNumber.executor\": \"Run\",\n    \"Application.LexicographicalNumbers.executor\": \"Run\",\n    \"Application.LinkedListFrequency.executor\": \"Run\",\n    \"Application.LinkedListInBinaryTree.executor\": \"Run\",\n    \"Application.LongestCommonSubsequence.executor\": \"Run\",\n    \"Application.LongestCommonSubsequenceBetweenSortedArrays.executor\": \"Run\",\n    \"Application.LongestIdealSubsequence.executor\": \"Debug\",\n    \"Application.LongestIncreasingSubsequence.executor\": \"Run\",\n    \"Application.LongestPalindrome.executor\": \"Run\",\n    \"Application.LongestPallindromicSubString.executor\": \"Run\",\n    \"Application.LongestStringChain.executor\": \"Run\",\n    \"Application.LongestSubarrayOf1AfterDeletingOneElement.executor\": \"Run\",\n    \"Application.LongestSubarrayWithMaximumBitwiseAND.executor\": \"Run\",\n    \"Application.LongestSubstringWithAtMostKDistinctCharacters.executor\": \"Run\",\n    \"Application.LongestSubstringWithAtMostTwoDistinctCharacters.executor\": \"Run\",\n    \"Application.LongestSubstringWithoutRepeatingCharacters.executor\": \"Run\",\n    \"Application.LongestWordWithAllPrefixes.executor\": \"Run\",\n    \"Application.LuckyNumberInMatrix.executor\": \"Run\",\n    \"Application.MagneticForceBetweenTwoBalls.executor\": \"Run\",\n    \"Application.Main.executor\": \"Run\",\n    \"Application.MajorityElement.executor\": \"Run\",\n    \"Application.MakeTheStringGreat.executor\": \"Run\",\n    \"Application.MakeTwoArraysEqualByReversingSubarrays.executor\": \"Run\",\n    \"Application.MakingAnagram.executor\": \"Run\",\n    \"Application.MaxArraySum.executor\": \"Run\",\n    \"Application.MaxConsecutiveOnesIII.executor\": \"Run\",\n    \"Application.MaxDepthOfBinaryTree.executor\": \"Run\",\n    \"Application.MaxHeap.executor\": \"Run\",\n    \"Application.MaxNumberOfKSumPairs.executor\": \"Run\",\n    \"Application.MaxPathSum.executor\": \"Run\",\n    \"Application.MaximizeHappinessSelectedChildren.executor\": \"Run\",\n    \"Application.MaximumAlternatingSubsequenceSum.executor\": \"Run\",\n    \"Application.MaximumAvarageSubArrayI.executor\": \"Run\",\n    \"Application.MaximumDistanceArrays.executor\": \"Run\",\n    \"Application.MaximumLengthOfPairChain.executor\": \"Run\",\n    \"Application.MaximumNestingDepthOfParentheses.executor\": \"Run\",\n    \"Application.MaximumNumberOfPointsWithCost.executor\": \"Run\",\n    \"Application.MaximumNumberOfVowelInSubstringOfKLength.executor\": \"Run\",\n    \"Application.MaximumOddBinaryNumber.executor\": \"Run\",\n    \"Application.MaximumScoreFromRemovingSubstrings.executor\": \"Run\",\n    \"Application.MaximumScoreWordsFormedByLetters.executor\": \"Run\",\n    \"Application.MaximumTotalImportanceOfRoads.executor\": \"Run\",\n    \"Application.MedianOfTwoSortedArrays.executor\": \"Run\",\n    \"Application.MeetingRoomII.executor\": \"Run\",\n    \"Application.MeetingScheduler.executor\": \"Run\",\n    \"Application.MergeInbetweenLinkedList.executor\": \"Run\",\n    \"Application.MergeIntervals.executor\": \"Run\",\n    \"Application.MinLengthOfStringAfterDeletingSimilarEnds.executor\": \"Run\",\n    \"Application.MinSwapsToGroupAllOneTogether.executor\": \"Run\",\n    \"Application.MinimDifferenceBetweenLargestAndSmallestValueInThreeMoves.executor\": \"Run\",\n    \"Application.MinimumBitFlipsToConvertNumber.executor\": \"Run\",\n    \"Application.MinimumCommonValue.executor\": \"Run\",\n    \"Application.MinimumCostToConnectAllPointsUsingKrushkal.executor\": \"Run\",\n    \"Application.MinimumDeletionsMakeStringBalanced.executor\": \"Run\",\n    \"Application.MinimumFallingSumPathII.executor\": \"Run\",\n    \"Application.MinimumHeightTrees.executor\": \"Run\",\n    \"Application.MinimumIncrementToMakeArrayUnique.executor\": \"Run\",\n    \"Application.MinimumMovesToGetPeacefulBoard.executor\": \"Run\",\n    \"Application.MinimumNumberArrowsBurstBalloons.executor\": \"Run\",\n    \"Application.MinimumNumberOfMovesToSeatEveryone.executor\": \"Run\",\n    \"Application.MinimumNumberOfOperationsToMakeArrayXOREqualToK.executor\": \"Run\",\n    \"Application.MinimumNumberOfSquareNumber.executor\": \"Run\",\n    \"Application.MinimumRemoveToMakeValidParentheses.executor\": \"Run\",\n    \"Application.MinimumSpanningTree.executor\": \"Run\",\n    \"Application.MinimumWindowSubstring.executor\": \"Run\",\n    \"Application.MinmumCostToConnectAllPoints.executor\": \"Run\",\n    \"Application.MissingNumber.executor\": \"Run\",\n    \"Application.MostProfitAssigningWork.executor\": \"Run\",\n    \"Application.MostStonesRemovedWithSameRowOrColumn.executor\": \"Run\",\n    \"Application.NoOfSpaceCleaningRobotsCleaned.executor\": \"Run\",\n    \"Application.NonAdjacentMaxSum.executor\": \"Run\",\n    \"Application.NthTribonacciNumber.executor\": \"Run\",\n    \"Application.NumberComplement.executor\": \"Run\",\n    \"Application.NumberOfAtoms.executor\": \"Run\",\n    \"Application.NumberOfGoodLeafNodesPairs.executor\": \"Run\",\n    \"Application.NumberOfIslandII.executor\": \"Run\",\n    \"Application.NumberOfIslands.executor\": \"Run\",\n    \"Application.NumberOfOperationsToMakeNetworkConnected.executor\": \"Run\",\n    \"Application.NumberOfProvinces.executor\": \"Run\",\n    \"Application.NumberOfSeniorCitizens.executor\": \"Run\",\n    \"Application.NumberOfStudentsUnableToEatLunch.executor\": \"Run\",\n    \"Application.NumberofStepstoReduceNumberBinaryRepresentationtoOne.executor\": \"Debug\",\n    \"Application.OddEvenNumber.executor\": \"Run\",\n    \"Application.OptimalPartitionOfString.executor\": \"Run\",\n    \"Application.PaintFence.executor\": \"Run\",\n    \"Application.PairsSongsWithTotalDurationsDivisibleBy60.executor\": \"Run\",\n    \"Application.PalindromicSubstrings.executor\": \"Run\",\n    \"Application.PallindromeLinkedList.executor\": \"Run\",\n    \"Application.PallindromeSubstring.executor\": \"Run\",\n    \"Application.PartitionArrayForMaximumSum.executor\": \"Run\",\n    \"Application.PatchingArray.executor\": \"Run\",\n    \"Application.PathWithMaximumGold.executor\": \"Run\",\n    \"Application.PathWithMaximumProbability.executor\": \"Run\",\n    \"Application.PathWithMinimumEffort.executor\": \"Run\",\n    \"Application.PatternSyntaxChecker.executor\": \"Run\",\n    \"Application.PerfectSquares.executor\": \"Run\",\n    \"Application.PowerOfThree.executor\": \"Debug\",\n    \"Application.PowerOfTwo.executor\": \"Run\",\n    \"Application.PowerXN.executor\": \"Run\",\n    \"Application.PrepareAdjacencyList.executor\": \"Run\",\n    \"Application.ProductOfArrayExceptSelf.executor\": \"Run\",\n    \"Application.RangeSumOfBST.executor\": \"Run\",\n    \"Application.RangeSumOfSortedSubarraySums.executor\": \"Run\",\n    \"Application.RearrangeArrayElementsbySign.executor\": \"Run\",\n    \"Application.RearrangingFruits.executor\": \"Run\",\n    \"Application.RegionsCutBySlashes.executor\": \"Run\",\n    \"Application.RelativeRanking.executor\": \"Run\",\n    \"Application.RemovalOfVowelsFromString.executor\": \"Run\",\n    \"Application.RemoveDuplicateLetters.executor\": \"Run\",\n    \"Application.RemoveInterval.executor\": \"Run\",\n    \"Application.RemoveKDigits.executor\": \"Run\",\n    \"Application.RemoveNodesFromLinkedList.executor\": \"Run\",\n    \"Application.RemoveZeroSumConsecutiveNodesFromLinkedList.executor\": \"Run\",\n    \"Application.ReorderRoutesToMakeAllPathsLeadToTheCityZero.executor\": \"Run\",\n    \"Application.ReplaceWords.executor\": \"Run\",\n    \"Application.RevealCardsInIncreasingOrder.executor\": \"Run\",\n    \"Application.ReverseInteger.executor\": \"Run\",\n    \"Application.ReverseLinkedList.executor\": \"Run\",\n    \"Application.ReversePrefixOfWord.executor\": \"Run\",\n    \"Application.ReverseStringInPlace.executor\": \"Run\",\n    \"Application.ReverseSubstringsBetweenEachPairofParentheses.executor\": \"Run\",\n    \"Application.SameTree.executor\": \"Run\",\n    \"Application.SatisfiabilityOfEqualityEquations.executor\": \"Run\",\n    \"Application.ScoreOfString.executor\": \"Run\",\n    \"Application.SearchInRotatedSortedArray.executor\": \"Run\",\n    \"Application.SherlockAndTheValidString.executor\": \"Run\",\n    \"Application.ShortestPathInBinaryMatrix.executor\": \"Run\",\n    \"Application.ShortestPathWeightedUndirectedGraph.executor\": \"Run\",\n    \"Application.SmallestStringStartingFromLeaf.executor\": \"Run\",\n    \"Application.SmallestSubsequenceOfDistinctCharacters.executor\": \"Run\",\n    \"Application.Solution.executor\": \"Run\",\n    \"Application.SortAnArray.executor\": \"Run\",\n    \"Application.SortArraybyIncreasingFrequency.executor\": \"Debug\",\n    \"Application.SortCharactersByFrequency.executor\": \"Run\",\n    \"Application.SortListBasedOnLastDigit.executor\": \"Run\",\n    \"Application.SortTheJumbledNumbers.executor\": \"Run\",\n    \"Application.SpecialSubStringAgain.executor\": \"Run\",\n    \"Application.SpiralMatrixIV.executor\": \"Run\",\n    \"Application.SplitBST.executor\": \"Debug\",\n    \"Application.SplitLinkedListinParts.executor\": \"Run\",\n    \"Application.SquaresOfASortedArray.executor\": \"Run\",\n    \"Application.StepByStepDirectionsFromBinaryTreeNodetoAnother.executor\": \"Run\",\n    \"Application.StoneGameII.executor\": \"Run\",\n    \"Application.StrangePrinter.executor\": \"Run\",\n    \"Application.StringConversion.executor\": \"Run\",\n    \"Application.StringLargestAndSmallest.executor\": \"Run\",\n    \"Application.StronglyConnectedComponents.executor\": \"Run\",\n    \"Application.SubarrayProductLessThanK.executor\": \"Run\",\n    \"Application.SubarraySumsDivisibleByK.executor\": \"Run\",\n    \"Application.SubstringsThatBeginAndEndWithSameLetter.executor\": \"Run\",\n    \"Application.SudokuSolver.executor\": \"Run\",\n    \"Application.SumOfDigitsOfStringAfterConvert.executor\": \"Run\",\n    \"Application.SuperDigits.executor\": \"Run\",\n    \"Application.TaskScheduler.executor\": \"Run\",\n    \"Application.TheEarliestMomentWhenEveryoneBecomeFriends.executor\": \"Run\",\n    \"Application.TheKthFactorofn.executor\": \"Run\",\n    \"Application.ThreeConsecutiveOdds.executor\": \"Run\",\n    \"Application.TimeNeededToBuyTickets.executor\": \"Run\",\n    \"Application.TopoSortUsingBFSInDirectedGraph.executor\": \"Run\",\n    \"Application.TopologicalSortingADG.executor\": \"Run\",\n    \"Application.TrappingRainWater.executor\": \"Run\",\n    \"Application.TwoKeysKeyboard.executor\": \"Run\",\n    \"Application.TwoStrings.executor\": \"Run\",\n    \"Application.TwoSum.executor\": \"Run\",\n    \"Application.UglyNumberIII.executor\": \"Run\",\n    \"Application.UglynumberII.executor\": \"Debug\",\n    \"Application.UncommonWordsFromTwoSentences.executor\": \"Run\",\n    \"Application.UnlockAndroidPatterns.executor\": \"Run\",\n    \"Application.ValidWordAbbreviation.executor\": \"Run\",\n    \"Application.ValidateBinarySearchTree.executor\": \"Run\",\n    \"Application.VerifyPreorderSequenceBinarySearchTree.executor\": \"Run\",\n    \"Application.WalkingRobotSimulation.executor\": \"Run\",\n    \"Application.WordSearch.executor\": \"Run\",\n    \"Application.WordSearchII.executor\": \"Run\",\n    \"Application.XORQueriesSubarray.executor\": \"Run\",\n    \"Application.check.executor\": \"Run\",\n    \"Application.com.prep.comparatorDemo.Solution.executor\": \"Run\",\n    \"Application.com.prep.trie.ReplaceWords.executor\": \"Run\",\n    \"RunOnceActivity.OpenProjectViewOnStart\": \"true\",\n    \"RunOnceActivity.ShowReadmeOnStart\": \"true\",\n    \"SHARE_PROJECT_CONFIGURATION_FILES\": \"true\",\n    \"git-widget-placeholder\": \"main\",\n    \"kotlin-language-version-configured\": \"true\",\n    \"last_opened_file_path\": \"/Users/subh/Documents/CODEBASE/Workspace\",\n    \"project.structure.last.edited\": \"Libraries\",\n    \"project.structure.proportion\": \"0.0\",\n    \"project.structure.side.proportion\": \"0.0\"\n  }\n}]]></component>\n  <component name=\"RunManager\" selected=\"Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons\">\n    <configuration name=\"BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.prep.dynamicProgramming.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons\" />\n      <module name=\"Workspace\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.prep.dynamicProgramming.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"LongestIncreasingSubsequence\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.prep.dynamicProgramming.LongestIncreasingSubsequence\" />\n      <module name=\"Workspace\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.prep.dynamicProgramming.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"LongestStringChain\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.prep.dynamicProgramming.LongestStringChain\" />\n      <module name=\"Workspace\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.prep.dynamicProgramming.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"MaximumAlternatingSubsequenceSum\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.prep.dynamicProgramming.MaximumAlternatingSubsequenceSum\" />\n      <module name=\"Workspace\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.prep.dynamicProgramming.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <configuration name=\"MaximumLengthOfPairChain\" type=\"Application\" factoryName=\"Application\" temporary=\"true\" nameIsGenerated=\"true\">\n      <option name=\"MAIN_CLASS_NAME\" value=\"com.prep.dynamicProgramming.MaximumLengthOfPairChain\" />\n      <module name=\"Workspace\" />\n      <extension name=\"coverage\">\n        <pattern>\n          <option name=\"PATTERN\" value=\"com.prep.dynamicProgramming.*\" />\n          <option name=\"ENABLED\" value=\"true\" />\n        </pattern>\n      </extension>\n      <method v=\"2\">\n        <option name=\"Make\" enabled=\"true\" />\n      </method>\n    </configuration>\n    <recent_temporary>\n      <list>\n        <item itemvalue=\"Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons\" />\n        <item itemvalue=\"Application.LongestStringChain\" />\n        <item itemvalue=\"Application.MaximumLengthOfPairChain\" />\n        <item itemvalue=\"Application.LongestIncreasingSubsequence\" />\n        <item itemvalue=\"Application.MaximumAlternatingSubsequenceSum\" />\n      </list>\n    </recent_temporary>\n  </component>\n  <component name=\"SharedIndexes\">\n    <attachedChunks>\n      <set>\n        <option value=\"jdk-21.0.1-openjdk-21.0.1-4caba194b151-9b16c6e2\" />\n      </set>\n    </attachedChunks>\n  </component>\n  <component name=\"SpellCheckerSettings\" RuntimeDictionaries=\"0\" Folders=\"0\" CustomDictionaries=\"0\" DefaultDictionary=\"application-level\" UseSingleDictionary=\"true\" transferred=\"true\" />\n  <component name=\"TaskManager\">\n    <task active=\"true\" id=\"Default\" summary=\"Default task\">\n      <changelist id=\"5a6016dd-9084-41e3-9522-db5f6a2afe2a\" name=\"Changes\" comment=\"\" />\n      <created>1706842370226</created>\n      <option name=\"number\" value=\"Default\" />\n      <option name=\"presentableId\" value=\"Default\" />\n      <updated>1706842370226</updated>\n    </task>\n    <task id=\"LOCAL-00001\" summary=\"initial commit\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1707979415676</created>\n      <option name=\"number\" value=\"00001\" />\n      <option name=\"presentableId\" value=\"LOCAL-00001\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1707979415676</updated>\n    </task>\n    <task id=\"LOCAL-00002\" summary=\"commit 5thApril2024\">\n      <option name=\"closed\" value=\"true\" />\n      <created>1712364068923</created>\n      <option name=\"number\" value=\"00002\" />\n      <option name=\"presentableId\" value=\"LOCAL-00002\" />\n      <option name=\"project\" value=\"LOCAL\" />\n      <updated>1712364068923</updated>\n    </task>\n    <option name=\"localTasksCounter\" value=\"3\" />\n    <servers />\n  </component>\n  <component name=\"VcsManagerConfiguration\">\n    <MESSAGE value=\"initial commit\" />\n    <MESSAGE value=\"commit 5thApril2024\" />\n    <option name=\"LAST_COMMIT_MESSAGE\" value=\"commit 5thApril2024\" />\n  </component>\n  <component name=\"XDebuggerManager\">\n    <breakpoint-manager>\n      <breakpoints>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/FindResultantArrayAfterRemovingAnagrams.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"2\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/hackerRank/SherlockAndTheValidString.java</url>\n          <line>16</line>\n          <option name=\"timeStamp\" value=\"3\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MaxNumberOfKSumPairs.java</url>\n          <line>16</line>\n          <option name=\"timeStamp\" value=\"4\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/hackerRank/StringLargestAndSmallest.java</url>\n          <line>10</line>\n          <option name=\"timeStamp\" value=\"5\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/BinarySubarrayWithSum.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"7\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/FirstMissingPositiveNumber.java</url>\n          <line>9</line>\n          <option name=\"timeStamp\" value=\"9\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/LongestSubarrayOf1AfterDeletingOneElement.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"10\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/LengthOfLongestSubarrayWithAtMostKFrequency.java</url>\n          <line>22</line>\n          <option name=\"timeStamp\" value=\"12\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/CountSubarraysWhereMaxElementAppearsatLeastKTimes.java</url>\n          <line>14</line>\n          <option name=\"timeStamp\" value=\"14\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/LongestSubstringWithAtMostKDistinctCharacters.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"15\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MakeTheStringGreat.java</url>\n          <line>9</line>\n          <option name=\"timeStamp\" value=\"16\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/RevealCardsInIncreasingOrder.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"18\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/RemoveKDigits.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"20\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/LongestIdealSubsequence.java</url>\n          <line>10</line>\n          <option name=\"timeStamp\" value=\"21\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/CountPairsInTwoArrays.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"24\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/dfs/BinaryTreeInorderTraversal.java</url>\n          <line>17</line>\n          <option name=\"timeStamp\" value=\"25\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MaximizeHappinessSelectedChildren.java</url>\n          <line>26</line>\n          <option name=\"timeStamp\" value=\"29\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/meta/BinaryTreeVerticalOrderTraversal.java</url>\n          <line>20</line>\n          <option name=\"timeStamp\" value=\"30\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/KthSmallestPrimeFraction.java</url>\n          <line>44</line>\n          <option name=\"timeStamp\" value=\"31\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/NumberofStepstoReduceNumberBinaryRepresentationtoOne.java</url>\n          <line>11</line>\n          <properties>\n            <option name=\"lambda-ordinal\" value=\"-1\" />\n          </properties>\n          <option name=\"timeStamp\" value=\"32\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/SubarraySumsDivisibleByK.java</url>\n          <line>14</line>\n          <option name=\"timeStamp\" value=\"33\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/GrumpyBookstoreOwner.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"39\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/dayCount/practice/BinaryTree/DeepestLeavesSum.java</url>\n          <line>46</line>\n          <option name=\"timeStamp\" value=\"42\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MaximumScoreFromRemovingSubstrings.java</url>\n          <line>15</line>\n          <option name=\"timeStamp\" value=\"48\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/NumberOfAtoms.java</url>\n          <line>15</line>\n          <option name=\"timeStamp\" value=\"50\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/DeleteNodesAndReturnForest.java</url>\n          <line>22</line>\n          <option name=\"timeStamp\" value=\"51\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/BuildMatrixWithConditions.java</url>\n          <line>14</line>\n          <option name=\"timeStamp\" value=\"52\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/SortTheJumbledNumbers.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"54\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/SortAnArray.java</url>\n          <line>11</line>\n          <option name=\"timeStamp\" value=\"55\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/dynamicProgramming/CoinChange.java</url>\n          <line>14</line>\n          <option name=\"timeStamp\" value=\"56\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MinSwapsToGroupAllOneTogether.java</url>\n          <line>12</line>\n          <option name=\"timeStamp\" value=\"58\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/LemonadeChange.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"59\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MaximumDistanceArrays.java</url>\n          <line>18</line>\n          <option name=\"timeStamp\" value=\"60\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/MaximumNumberOfPointsWithCost.java</url>\n          <line>42</line>\n          <option name=\"timeStamp\" value=\"61\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/FindKthSmallestPair.java</url>\n          <line>14</line>\n          <option name=\"timeStamp\" value=\"62\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/FindMissingObservations.java</url>\n          <line>15</line>\n          <option name=\"timeStamp\" value=\"63\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/DeleteNodesFromLinkedListPresentInArray.java</url>\n          <line>24</line>\n          <option name=\"timeStamp\" value=\"64\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/FindLongestSubstringContainingVowelsEven.java</url>\n          <line>13</line>\n          <option name=\"timeStamp\" value=\"65\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/graph/FloydWarshallAlgo.java</url>\n          <line>19</line>\n          <option name=\"timeStamp\" value=\"67\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/graph/MinimumSpanningTree.java</url>\n          <line>30</line>\n          <properties>\n            <option name=\"lambda-ordinal\" value=\"-1\" />\n          </properties>\n          <option name=\"timeStamp\" value=\"68\" />\n        </line-breakpoint>\n        <line-breakpoint enabled=\"true\" type=\"java-line\">\n          <url>file://$PROJECT_DIR$/src/com/prep/graph/KruskalAlgorithm.java</url>\n          <line>38</line>\n          <properties>\n            <option name=\"lambda-ordinal\" value=\"-1\" />\n          </properties>\n          <option name=\"timeStamp\" value=\"69\" />\n        </line-breakpoint>\n      </breakpoints>\n    </breakpoint-manager>\n  </component>\n</project>
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+diff --git a/.idea/workspace.xml b/.idea/workspace.xml
+--- a/.idea/workspace.xml	(revision 7201ff2f065c54b8855ebfd15ea2a95075ba11f6)
++++ b/.idea/workspace.xml	(date 1728151992689)
+@@ -5,120 +5,7 @@
+   </component>
+   <component name="ChangeListManager">
+     <list default="true" id="5a6016dd-9084-41e3-9522-db5f6a2afe2a" name="Changes" comment="commit 24july2024">
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/AddTwoPolynomialsRepresentedAsLinkedLists.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/CombinationSumII.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/Convert1DArrayInto2DArray.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/CountSubIslands.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/CountTheNumberOfConsistentStrings.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/CourseSchedule.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/CourseScheduleII.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/DeleteNodesFromLinkedListPresentInArray.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/DifferentWaysToAddParentheses.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FillingBookcaseShelves.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindCityWiththeSmallestNumberNeighborsThresholdDistance.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindKthSmallestPair.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindKthSmallestPairDistance.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindLongestSubstringContainingVowelsEven.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindMissingObservations.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindSmallestRegion.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindTheLengthOfTheLongestCommonPrefix.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FindTheStudentThatWillReplaceTheChalk.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/FractionAdditionSubtraction.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/InsertGreatestCommonDivisorsInLinkedList.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/IntegerToEnglishWords.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/IsSumPossible.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/KthLargestInAStream.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/KthSmallestLexicographicalNumbers.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/LaragestNumber.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/LemonadeChange.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/LexicographicalNumbers.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/LinkedListInBinaryTree.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestSubarrayWithMaximumBitwiseAND.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/LongestWordWithAllPrefixes.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MakeTwoArraysEqualByReversingSubarrays.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumDistanceArrays.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MaximumNumberOfPointsWithCost.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MeetingScheduler.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinSwapsToGroupAllOneTogether.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumBitFlipsToConvertNumber.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumDeletionsMakeStringBalanced.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumMovesToGetPeacefulBoard.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MinmumCostToConnectAllPoints.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MostStonesRemovedWithSameRowOrColumn.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MyCalendar.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MyCalendarTwo.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/MyCircularDeque.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberComplement.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/NumberOfSeniorCitizens.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/PairsSongsWithTotalDurationsDivisibleBy60.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/PathWithMaximumProbability.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/RangeSumOfSortedSubarraySums.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/RegionsCutBySlashes.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/RemovingExtraCharactersInString.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/SpiralMatrixIII.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/SpiralMatrixIV.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/SplitLinkedListinParts.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/StoneGameII.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/StrangePrinter.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/StringConversion.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/SumOfDigitsOfStringAfterConvert.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/Tictactoe.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/TossStrangeCoins.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/Twitter.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/TwoKeysKeyboard.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/UglynumberII.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/UncommonWordsFromTwoSentences.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/UnlockAndroidPatterns.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/WalkingRobotSimulation.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/XORQueriesSubarray.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/binarySearch/SearchInRotatedSortedArray.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/ClimbingStairs.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/CoinChange.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/CountPath.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/FibonacciDP.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/HouseRobber.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/HouseRubberTwo.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/LongestIncreasingSubsequence.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/LongestStringChain.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaxPathSum.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaximumAlternatingSubsequenceSum.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MaximumLengthOfPairChain.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/MinimumNumberOfSquareNumber.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/dynamicProgramming/NonAdjacentMaxSum.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/BFSTraversal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/BellmanFordAlgo.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/BipartiteGraph.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/CourseScheduleTwo.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/CycleDetectionInDirectedGraphUsingBFS.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/CycleDetectionInGraphBFS.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DetectACycleInGraphDFS.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DfsTraversal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DijkstraAlgoByCreatingAdjListMap.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/DikjstraAlgorithm.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/EulerianPathCircuit.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/FloydWarshallAlgo.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/KruskalAlgorithm.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/MinimumCostToConnectAllPointsUsingKrushkal.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/MinimumSpanningTree.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/PathWithMinimumEffort.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/PrepareAdjacencyList.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/ShortestPathInBinaryMatrix.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/ShortestPathWeightedUndirectedGraph.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/StronglyConnectedComponents.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/TopoSortUsingBFSInDirectedGraph.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/TopologicalSortingADG.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/CountUnreachablePairsOfNodesInAnUndirectedGraph.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/CycleDetectionUsingDSU.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/DisjointSet.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/NumberOfOperationsToMakeNetworkConnected.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/SatisfiabilityOfEqualityEquations.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graph/disjointSet/union/disjointSetUsingPathCompressionAndRank.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graphConcept/DijkstraAlgorithm.java" afterDir="false" />
+-      <change afterPath="$PROJECT_DIR$/src/com/prep/graphConcept/FloydWarshallAlgo.java" afterDir="false" />
+       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/prep/NumberOfProvinces.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/NumberOfProvinces.java" afterDir="false" />
+-      <change beforePath="$PROJECT_DIR$/src/com/prep/Solution.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/com/prep/Solution.java" afterDir="false" />
+     </list>
+     <option name="SHOW_DIALOG" value="false" />
+     <option name="HIGHLIGHT_CONFLICTS" value="true" />
+@@ -133,6 +20,9 @@
+         <option value="Class" />
+       </list>
+     </option>
++  </component>
++  <component name="Git.Rebase.Settings">
++    <option name="NEW_BASE" value="origin/master" />
+   </component>
+   <component name="Git.Settings">
+     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+@@ -160,321 +50,321 @@
+     <option name="hideEmptyMiddlePackages" value="true" />
+     <option name="showLibraryContents" value="true" />
+   </component>
+-  <component name="PropertiesComponent"><![CDATA[{
+-  "keyToString": {
+-    "Application.AddDigits.executor": "Run",
+-    "Application.AddTwoNumbers.executor": "Run",
+-    "Application.AllNumStartWithOnes.executor": "Run",
+-    "Application.AppendCharactersToStringMakeSubsequence.executor": "Run",
+-    "Application.ArbitaryPrecisionBigdecimal.executor": "Run",
+-    "Application.AverageOfLevelsInBinaryTree.executor": "Run",
+-    "Application.BFSTraversal.executor": "Run",
+-    "Application.BTreeLevelOrderTraversalBottomUp.executor": "Run",
+-    "Application.BTreeZigzagLevelOrderTraversalQueue.executor": "Run",
+-    "Application.BagOfTokens.executor": "Run",
+-    "Application.BalanceBinarySearchTree.executor": "Run",
+-    "Application.BellmanFordAlgo.executor": "Run",
+-    "Application.BinarySubarrayWithSum.executor": "Run",
+-    "Application.BinaryTreeInorderTraversal.executor": "Run",
+-    "Application.BinaryTreeLevelOrderTraversal.executor": "Run",
+-    "Application.BinaryTreeLevelOrderTraversalIteration.executor": "Run",
+-    "Application.BinaryTreeVerticalOrderTraversal.executor": "Run",
+-    "Application.BipartiteGraph.executor": "Run",
+-    "Application.BoatToSavePeople.executor": "Run",
+-    "Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.executor": "Run",
+-    "Application.CharCompare.executor": "Run",
+-    "Application.ClimbingStairs.executor": "Run",
+-    "Application.CoinChange.executor": "Run",
+-    "Application.CombinationSum.executor": "Run",
+-    "Application.CombinationSumII.executor": "Run",
+-    "Application.CombinationSumTwo.executor": "Run",
+-    "Application.CommonChild.executor": "Run",
+-    "Application.ContinguousArray.executor": "Run",
+-    "Application.ContinuousSubarraySum.executor": "Run",
+-    "Application.Convert1DArrayInto2DArray.executor": "Run",
+-    "Application.CountElementsWithMaximumFrequency.executor": "Run",
+-    "Application.CountNumberOfNiceSubarrays.executor": "Run",
+-    "Application.CountNumberOfPairsWithAbsoluteDifferenceK.executor": "Run",
+-    "Application.CountPairsInTwoArrays.executor": "Run",
+-    "Application.CountPath.executor": "Run",
+-    "Application.CountSubIslands.executor": "Run",
+-    "Application.CountSubarraysWhereMaxElementAppearsatLeastKTimes.executor": "Debug",
+-    "Application.CountSubstringsWithoutRepeatingCharacter.executor": "Run",
+-    "Application.CountTheNumberOfConsistentStrings.executor": "Run",
+-    "Application.CountUnreachablePairsOfNodesInAnUndirectedGraph.executor": "Run",
+-    "Application.CourseSchedule.executor": "Run",
+-    "Application.CourseScheduleII.executor": "Run",
+-    "Application.CourseScheduleTwo.executor": "Run",
+-    "Application.CrawlerLogFolder.executor": "Run",
+-    "Application.CustomSortString.executor": "Run",
+-    "Application.CycleDetectionInDirectedGraphUsingBFS.executor": "Run",
+-    "Application.CycleDetectionInGraphBFS.executor": "Run",
+-    "Application.CycleDetectionUsingDSU.executor": "Run",
+-    "Application.DavisStairCase.executor": "Run",
+-    "Application.DeepestLeavesSum.executor": "Run",
+-    "Application.DeleteLeavesWithAGivenValue.executor": "Run",
+-    "Application.DeleteNodeInBST.executor": "Run",
+-    "Application.DeleteNodesAndReturnForest.executor": "Run",
+-    "Application.DeleteNodesFromLinkedListPresentInArray.executor": "Run",
+-    "Application.DetectACycleInGraphDFS.executor": "Run",
+-    "Application.DfsTraversal.executor": "Run",
+-    "Application.DiameterOfABinaryTree.executor": "Run",
+-    "Application.DifferentWaysToAddParentheses.executor": "Run",
+-    "Application.DijkstraAlgoByCreatingAdjListMap.executor": "Run",
+-    "Application.DikjstraAlgorithm.executor": "Run",
+-    "Application.DistributeCoinsBinaryTree.executor": "Run",
+-    "Application.DoubleNumberRepresentedLinkedList.executor": "Run",
+-    "Application.EvaluateBooleanBinaryTree.executor": "Run",
+-    "Application.FibonacciDP.executor": "Run",
+-    "Application.FillingBookcaseShelves.executor": "Run",
+-    "Application.FindAllDuplicatesArray.executor": "Run",
+-    "Application.FindAllLonelyNodes.executor": "Run",
+-    "Application.FindCenterOfStarGraph.executor": "Run",
+-    "Application.FindCommonCharacters.executor": "Run",
+-    "Application.FindDuplicateNumber.executor": "Run",
+-    "Application.FindFirstPalindromicStringintheArray.executor": "Run",
+-    "Application.FindIfPathExistsInGraph.executor": "Run",
+-    "Application.FindKthLargestIntegerInTheArray.executor": "Run",
+-    "Application.FindKthSmallestPair.executor": "Run",
+-    "Application.FindKthSmallestPairDistance.executor": "Run",
+-    "Application.FindLongestSubstringContainingVowelsEven.executor": "Run",
+-    "Application.FindLowestCommonAncesterOfTwoNodes.executor": "Run",
+-    "Application.FindMissingObservations.executor": "Run",
+-    "Application.FindPivotInteger.executor": "Run",
+-    "Application.FindPolygonWithTheLargestPerimeter.executor": "Run",
+-    "Application.FindResultantArrayAfterRemovingAnagrams.executor": "Run",
+-    "Application.FindSmallestRegion.executor": "Run",
+-    "Application.FindTheDifferenceOfTwoArrays.executor": "Run",
+-    "Application.FindTheLengthOfTheLongestCommonPrefix.executor": "Run",
+-    "Application.FindTheMaxSafestDistanceInGrid.executor": "Run",
+-    "Application.FindTheStudentThatWillReplaceTheChalk.executor": "Run",
+-    "Application.FindTheTownJudge.executor": "Run",
+-    "Application.FirstMissingPositiveNumber.executor": "Run",
+-    "Application.FirstUniqueCharacterInAString.executor": "Run",
+-    "Application.FloydWarshallAlgo.executor": "Run",
+-    "Application.FractionAdditionSubtraction.executor": "Run",
+-    "Application.FreedomTrails.executor": "Run",
+-    "Application.FruitIntoBaskets.executor": "Run",
+-    "Application.FurthestBuildingYouCanReach.executor": "Run",
+-    "Application.GenerateParenthesis.executor": "Run",
+-    "Application.GreatestCommonDiviser.executor": "Run",
+-    "Application.GrumpyBookstoreOwner.executor": "Run",
+-    "Application.HandOfStraights.executor": "Run",
+-    "Application.HeapSort.executor": "Run",
+-    "Application.HeightOfABinaryTree.executor": "Run",
+-    "Application.HouseRobber.executor": "Run",
+-    "Application.HouseRubberTwo.executor": "Run",
+-    "Application.InsertGreatestCommonDivisorsInLinkedList.executor": "Run",
+-    "Application.IntersectionOfTwoArrays.executor": "Run",
+-    "Application.IsSumPossible.executor": "Run",
+-    "Application.IsomorphicString.executor": "Run",
+-    "Application.JavaStringIntroduction.executor": "Run",
+-    "Application.JumpGame.executor": "Run",
+-    "Application.JumpGameII.executor": "Run",
+-    "Application.KeysAndRooms.executor": "Run",
+-    "Application.KruskalAlgorithm.executor": "Run",
+-    "Application.KthLargestElement.executor": "Debug",
+-    "Application.KthSmallestLexicographicalNumbers.executor": "Run",
+-    "Application.KthSmallestPrimeFraction.executor": "Run",
+-    "Application.LakePerimeter.executor": "Run",
+-    "Application.LargestDivisibleSubset.executor": "Run",
+-    "Application.LargestLocalValuesMatrix.executor": "Run",
+-    "Application.LargestPositiveIntegerThatExistsWithItsNegative.executor": "Run",
+-    "Application.LargestRectangleInHistogram.executor": "Run",
+-    "Application.LeastNumberOfUniqueIntegersAfterKRemovals.executor": "Run",
+-    "Application.LeftRotation.executor": "Run",
+-    "Application.LemonadeChange.executor": "Run",
+-    "Application.LengthOfLastWord.executor": "Run",
+-    "Application.LengthOfLongestSubarrayWithAtMostKFrequency.executor": "Run",
+-    "Application.LetterCombinationOfAPhoneNumber.executor": "Run",
+-    "Application.LexicographicalNumbers.executor": "Run",
+-    "Application.LinkedListFrequency.executor": "Run",
+-    "Application.LinkedListInBinaryTree.executor": "Run",
+-    "Application.LongestCommonSubsequence.executor": "Run",
+-    "Application.LongestCommonSubsequenceBetweenSortedArrays.executor": "Run",
+-    "Application.LongestIdealSubsequence.executor": "Debug",
+-    "Application.LongestIncreasingSubsequence.executor": "Run",
+-    "Application.LongestPalindrome.executor": "Run",
+-    "Application.LongestPallindromicSubString.executor": "Run",
+-    "Application.LongestStringChain.executor": "Run",
+-    "Application.LongestSubarrayOf1AfterDeletingOneElement.executor": "Run",
+-    "Application.LongestSubarrayWithMaximumBitwiseAND.executor": "Run",
+-    "Application.LongestSubstringWithAtMostKDistinctCharacters.executor": "Run",
+-    "Application.LongestSubstringWithAtMostTwoDistinctCharacters.executor": "Run",
+-    "Application.LongestSubstringWithoutRepeatingCharacters.executor": "Run",
+-    "Application.LongestWordWithAllPrefixes.executor": "Run",
+-    "Application.LuckyNumberInMatrix.executor": "Run",
+-    "Application.MagneticForceBetweenTwoBalls.executor": "Run",
+-    "Application.Main.executor": "Run",
+-    "Application.MajorityElement.executor": "Run",
+-    "Application.MakeTheStringGreat.executor": "Run",
+-    "Application.MakeTwoArraysEqualByReversingSubarrays.executor": "Run",
+-    "Application.MakingAnagram.executor": "Run",
+-    "Application.MaxArraySum.executor": "Run",
+-    "Application.MaxConsecutiveOnesIII.executor": "Run",
+-    "Application.MaxDepthOfBinaryTree.executor": "Run",
+-    "Application.MaxHeap.executor": "Run",
+-    "Application.MaxNumberOfKSumPairs.executor": "Run",
+-    "Application.MaxPathSum.executor": "Run",
+-    "Application.MaximizeHappinessSelectedChildren.executor": "Run",
+-    "Application.MaximumAlternatingSubsequenceSum.executor": "Run",
+-    "Application.MaximumAvarageSubArrayI.executor": "Run",
+-    "Application.MaximumDistanceArrays.executor": "Run",
+-    "Application.MaximumLengthOfPairChain.executor": "Run",
+-    "Application.MaximumNestingDepthOfParentheses.executor": "Run",
+-    "Application.MaximumNumberOfPointsWithCost.executor": "Run",
+-    "Application.MaximumNumberOfVowelInSubstringOfKLength.executor": "Run",
+-    "Application.MaximumOddBinaryNumber.executor": "Run",
+-    "Application.MaximumScoreFromRemovingSubstrings.executor": "Run",
+-    "Application.MaximumScoreWordsFormedByLetters.executor": "Run",
+-    "Application.MaximumTotalImportanceOfRoads.executor": "Run",
+-    "Application.MedianOfTwoSortedArrays.executor": "Run",
+-    "Application.MeetingRoomII.executor": "Run",
+-    "Application.MeetingScheduler.executor": "Run",
+-    "Application.MergeInbetweenLinkedList.executor": "Run",
+-    "Application.MergeIntervals.executor": "Run",
+-    "Application.MinLengthOfStringAfterDeletingSimilarEnds.executor": "Run",
+-    "Application.MinSwapsToGroupAllOneTogether.executor": "Run",
+-    "Application.MinimDifferenceBetweenLargestAndSmallestValueInThreeMoves.executor": "Run",
+-    "Application.MinimumBitFlipsToConvertNumber.executor": "Run",
+-    "Application.MinimumCommonValue.executor": "Run",
+-    "Application.MinimumCostToConnectAllPointsUsingKrushkal.executor": "Run",
+-    "Application.MinimumDeletionsMakeStringBalanced.executor": "Run",
+-    "Application.MinimumFallingSumPathII.executor": "Run",
+-    "Application.MinimumHeightTrees.executor": "Run",
+-    "Application.MinimumIncrementToMakeArrayUnique.executor": "Run",
+-    "Application.MinimumMovesToGetPeacefulBoard.executor": "Run",
+-    "Application.MinimumNumberArrowsBurstBalloons.executor": "Run",
+-    "Application.MinimumNumberOfMovesToSeatEveryone.executor": "Run",
+-    "Application.MinimumNumberOfOperationsToMakeArrayXOREqualToK.executor": "Run",
+-    "Application.MinimumNumberOfSquareNumber.executor": "Run",
+-    "Application.MinimumRemoveToMakeValidParentheses.executor": "Run",
+-    "Application.MinimumSpanningTree.executor": "Run",
+-    "Application.MinimumWindowSubstring.executor": "Run",
+-    "Application.MinmumCostToConnectAllPoints.executor": "Run",
+-    "Application.MissingNumber.executor": "Run",
+-    "Application.MostProfitAssigningWork.executor": "Run",
+-    "Application.MostStonesRemovedWithSameRowOrColumn.executor": "Run",
+-    "Application.NoOfSpaceCleaningRobotsCleaned.executor": "Run",
+-    "Application.NonAdjacentMaxSum.executor": "Run",
+-    "Application.NthTribonacciNumber.executor": "Run",
+-    "Application.NumberComplement.executor": "Run",
+-    "Application.NumberOfAtoms.executor": "Run",
+-    "Application.NumberOfGoodLeafNodesPairs.executor": "Run",
+-    "Application.NumberOfIslandII.executor": "Run",
+-    "Application.NumberOfIslands.executor": "Run",
+-    "Application.NumberOfOperationsToMakeNetworkConnected.executor": "Run",
+-    "Application.NumberOfProvinces.executor": "Run",
+-    "Application.NumberOfSeniorCitizens.executor": "Run",
+-    "Application.NumberOfStudentsUnableToEatLunch.executor": "Run",
+-    "Application.NumberofStepstoReduceNumberBinaryRepresentationtoOne.executor": "Debug",
+-    "Application.OddEvenNumber.executor": "Run",
+-    "Application.OptimalPartitionOfString.executor": "Run",
+-    "Application.PaintFence.executor": "Run",
+-    "Application.PairsSongsWithTotalDurationsDivisibleBy60.executor": "Run",
+-    "Application.PalindromicSubstrings.executor": "Run",
+-    "Application.PallindromeLinkedList.executor": "Run",
+-    "Application.PallindromeSubstring.executor": "Run",
+-    "Application.PartitionArrayForMaximumSum.executor": "Run",
+-    "Application.PatchingArray.executor": "Run",
+-    "Application.PathWithMaximumGold.executor": "Run",
+-    "Application.PathWithMaximumProbability.executor": "Run",
+-    "Application.PathWithMinimumEffort.executor": "Run",
+-    "Application.PatternSyntaxChecker.executor": "Run",
+-    "Application.PerfectSquares.executor": "Run",
+-    "Application.PowerOfThree.executor": "Debug",
+-    "Application.PowerOfTwo.executor": "Run",
+-    "Application.PowerXN.executor": "Run",
+-    "Application.PrepareAdjacencyList.executor": "Run",
+-    "Application.ProductOfArrayExceptSelf.executor": "Run",
+-    "Application.RangeSumOfBST.executor": "Run",
+-    "Application.RangeSumOfSortedSubarraySums.executor": "Run",
+-    "Application.RearrangeArrayElementsbySign.executor": "Run",
+-    "Application.RearrangingFruits.executor": "Run",
+-    "Application.RegionsCutBySlashes.executor": "Run",
+-    "Application.RelativeRanking.executor": "Run",
+-    "Application.RemovalOfVowelsFromString.executor": "Run",
+-    "Application.RemoveDuplicateLetters.executor": "Run",
+-    "Application.RemoveInterval.executor": "Run",
+-    "Application.RemoveKDigits.executor": "Run",
+-    "Application.RemoveNodesFromLinkedList.executor": "Run",
+-    "Application.RemoveZeroSumConsecutiveNodesFromLinkedList.executor": "Run",
+-    "Application.ReorderRoutesToMakeAllPathsLeadToTheCityZero.executor": "Run",
+-    "Application.ReplaceWords.executor": "Run",
+-    "Application.RevealCardsInIncreasingOrder.executor": "Run",
+-    "Application.ReverseInteger.executor": "Run",
+-    "Application.ReverseLinkedList.executor": "Run",
+-    "Application.ReversePrefixOfWord.executor": "Run",
+-    "Application.ReverseStringInPlace.executor": "Run",
+-    "Application.ReverseSubstringsBetweenEachPairofParentheses.executor": "Run",
+-    "Application.SameTree.executor": "Run",
+-    "Application.SatisfiabilityOfEqualityEquations.executor": "Run",
+-    "Application.ScoreOfString.executor": "Run",
+-    "Application.SearchInRotatedSortedArray.executor": "Run",
+-    "Application.SherlockAndTheValidString.executor": "Run",
+-    "Application.ShortestPathInBinaryMatrix.executor": "Run",
+-    "Application.ShortestPathWeightedUndirectedGraph.executor": "Run",
+-    "Application.SmallestStringStartingFromLeaf.executor": "Run",
+-    "Application.SmallestSubsequenceOfDistinctCharacters.executor": "Run",
+-    "Application.Solution.executor": "Run",
+-    "Application.SortAnArray.executor": "Run",
+-    "Application.SortArraybyIncreasingFrequency.executor": "Debug",
+-    "Application.SortCharactersByFrequency.executor": "Run",
+-    "Application.SortListBasedOnLastDigit.executor": "Run",
+-    "Application.SortTheJumbledNumbers.executor": "Run",
+-    "Application.SpecialSubStringAgain.executor": "Run",
+-    "Application.SpiralMatrixIV.executor": "Run",
+-    "Application.SplitBST.executor": "Debug",
+-    "Application.SplitLinkedListinParts.executor": "Run",
+-    "Application.SquaresOfASortedArray.executor": "Run",
+-    "Application.StepByStepDirectionsFromBinaryTreeNodetoAnother.executor": "Run",
+-    "Application.StoneGameII.executor": "Run",
+-    "Application.StrangePrinter.executor": "Run",
+-    "Application.StringConversion.executor": "Run",
+-    "Application.StringLargestAndSmallest.executor": "Run",
+-    "Application.StronglyConnectedComponents.executor": "Run",
+-    "Application.SubarrayProductLessThanK.executor": "Run",
+-    "Application.SubarraySumsDivisibleByK.executor": "Run",
+-    "Application.SubstringsThatBeginAndEndWithSameLetter.executor": "Run",
+-    "Application.SudokuSolver.executor": "Run",
+-    "Application.SumOfDigitsOfStringAfterConvert.executor": "Run",
+-    "Application.SuperDigits.executor": "Run",
+-    "Application.TaskScheduler.executor": "Run",
+-    "Application.TheEarliestMomentWhenEveryoneBecomeFriends.executor": "Run",
+-    "Application.TheKthFactorofn.executor": "Run",
+-    "Application.ThreeConsecutiveOdds.executor": "Run",
+-    "Application.TimeNeededToBuyTickets.executor": "Run",
+-    "Application.TopoSortUsingBFSInDirectedGraph.executor": "Run",
+-    "Application.TopologicalSortingADG.executor": "Run",
+-    "Application.TrappingRainWater.executor": "Run",
+-    "Application.TwoKeysKeyboard.executor": "Run",
+-    "Application.TwoStrings.executor": "Run",
+-    "Application.TwoSum.executor": "Run",
+-    "Application.UglyNumberIII.executor": "Run",
+-    "Application.UglynumberII.executor": "Debug",
+-    "Application.UncommonWordsFromTwoSentences.executor": "Run",
+-    "Application.UnlockAndroidPatterns.executor": "Run",
+-    "Application.ValidWordAbbreviation.executor": "Run",
+-    "Application.ValidateBinarySearchTree.executor": "Run",
+-    "Application.VerifyPreorderSequenceBinarySearchTree.executor": "Run",
+-    "Application.WalkingRobotSimulation.executor": "Run",
+-    "Application.WordSearch.executor": "Run",
+-    "Application.WordSearchII.executor": "Run",
+-    "Application.XORQueriesSubarray.executor": "Run",
+-    "Application.check.executor": "Run",
+-    "Application.com.prep.comparatorDemo.Solution.executor": "Run",
+-    "Application.com.prep.trie.ReplaceWords.executor": "Run",
+-    "RunOnceActivity.OpenProjectViewOnStart": "true",
+-    "RunOnceActivity.ShowReadmeOnStart": "true",
+-    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
+-    "git-widget-placeholder": "main",
+-    "kotlin-language-version-configured": "true",
+-    "last_opened_file_path": "/Users/subh/Documents/CODEBASE/Workspace",
+-    "project.structure.last.edited": "Libraries",
+-    "project.structure.proportion": "0.0",
+-    "project.structure.side.proportion": "0.0"
++  <component name="PropertiesComponent">{
++  &quot;keyToString&quot;: {
++    &quot;Application.AddDigits.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AddTwoNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AllNumStartWithOnes.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AppendCharactersToStringMakeSubsequence.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ArbitaryPrecisionBigdecimal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.AverageOfLevelsInBinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BFSTraversal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BTreeLevelOrderTraversalBottomUp.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BTreeZigzagLevelOrderTraversalQueue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BagOfTokens.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BalanceBinarySearchTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BellmanFordAlgo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BinarySubarrayWithSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BinaryTreeInorderTraversal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BinaryTreeLevelOrderTraversal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BinaryTreeLevelOrderTraversalIteration.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BinaryTreeVerticalOrderTraversal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BipartiteGraph.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BoatToSavePeople.executor&quot;: &quot;Run&quot;,
++    &quot;Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CharCompare.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ClimbingStairs.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CoinChange.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CombinationSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CombinationSumII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CombinationSumTwo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CommonChild.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ContinguousArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ContinuousSubarraySum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Convert1DArrayInto2DArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountElementsWithMaximumFrequency.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountNumberOfNiceSubarrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountNumberOfPairsWithAbsoluteDifferenceK.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountPairsInTwoArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountPath.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountSubIslands.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountSubarraysWhereMaxElementAppearsatLeastKTimes.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.CountSubstringsWithoutRepeatingCharacter.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountTheNumberOfConsistentStrings.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CountUnreachablePairsOfNodesInAnUndirectedGraph.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CourseSchedule.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CourseScheduleII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CourseScheduleTwo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CrawlerLogFolder.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CustomSortString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CycleDetectionInDirectedGraphUsingBFS.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CycleDetectionInGraphBFS.executor&quot;: &quot;Run&quot;,
++    &quot;Application.CycleDetectionUsingDSU.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DavisStairCase.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DeepestLeavesSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DeleteLeavesWithAGivenValue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DeleteNodeInBST.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DeleteNodesAndReturnForest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DeleteNodesFromLinkedListPresentInArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DetectACycleInGraphDFS.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DfsTraversal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DiameterOfABinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DifferentWaysToAddParentheses.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DijkstraAlgoByCreatingAdjListMap.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DikjstraAlgorithm.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DistributeCoinsBinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.DoubleNumberRepresentedLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.EvaluateBooleanBinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FibonacciDP.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FillingBookcaseShelves.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindAllDuplicatesArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindAllLonelyNodes.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindCenterOfStarGraph.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindCommonCharacters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindDuplicateNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindFirstPalindromicStringintheArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindIfPathExistsInGraph.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindKthLargestIntegerInTheArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindKthSmallestPair.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindKthSmallestPairDistance.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindLongestSubstringContainingVowelsEven.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindLowestCommonAncesterOfTwoNodes.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindMissingObservations.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindPivotInteger.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindPolygonWithTheLargestPerimeter.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindResultantArrayAfterRemovingAnagrams.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindSmallestRegion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindTheDifferenceOfTwoArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindTheLengthOfTheLongestCommonPrefix.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindTheMaxSafestDistanceInGrid.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindTheStudentThatWillReplaceTheChalk.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FindTheTownJudge.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FirstMissingPositiveNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FirstUniqueCharacterInAString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FloydWarshallAlgo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FractionAdditionSubtraction.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FreedomTrails.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FruitIntoBaskets.executor&quot;: &quot;Run&quot;,
++    &quot;Application.FurthestBuildingYouCanReach.executor&quot;: &quot;Run&quot;,
++    &quot;Application.GenerateParenthesis.executor&quot;: &quot;Run&quot;,
++    &quot;Application.GreatestCommonDiviser.executor&quot;: &quot;Run&quot;,
++    &quot;Application.GrumpyBookstoreOwner.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HandOfStraights.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HeapSort.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HeightOfABinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HouseRobber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.HouseRubberTwo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.InsertGreatestCommonDivisorsInLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.IntersectionOfTwoArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.IsSumPossible.executor&quot;: &quot;Run&quot;,
++    &quot;Application.IsomorphicString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.JavaStringIntroduction.executor&quot;: &quot;Run&quot;,
++    &quot;Application.JumpGame.executor&quot;: &quot;Run&quot;,
++    &quot;Application.JumpGameII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.KeysAndRooms.executor&quot;: &quot;Run&quot;,
++    &quot;Application.KruskalAlgorithm.executor&quot;: &quot;Run&quot;,
++    &quot;Application.KthLargestElement.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.KthSmallestLexicographicalNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Application.KthSmallestPrimeFraction.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LakePerimeter.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LargestDivisibleSubset.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LargestLocalValuesMatrix.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LargestPositiveIntegerThatExistsWithItsNegative.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LargestRectangleInHistogram.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeastNumberOfUniqueIntegersAfterKRemovals.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LeftRotation.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LemonadeChange.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LengthOfLastWord.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LengthOfLongestSubarrayWithAtMostKFrequency.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LetterCombinationOfAPhoneNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LexicographicalNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LinkedListFrequency.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LinkedListInBinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestCommonSubsequence.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestCommonSubsequenceBetweenSortedArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestIdealSubsequence.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.LongestIncreasingSubsequence.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestPalindrome.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestPallindromicSubString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestStringChain.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestSubarrayOf1AfterDeletingOneElement.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestSubarrayWithMaximumBitwiseAND.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestSubstringWithAtMostKDistinctCharacters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestSubstringWithAtMostTwoDistinctCharacters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestSubstringWithoutRepeatingCharacters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LongestWordWithAllPrefixes.executor&quot;: &quot;Run&quot;,
++    &quot;Application.LuckyNumberInMatrix.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MagneticForceBetweenTwoBalls.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Main.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MajorityElement.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MakeTheStringGreat.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MakeTwoArraysEqualByReversingSubarrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MakingAnagram.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxArraySum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxConsecutiveOnesIII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxDepthOfBinaryTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxHeap.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxNumberOfKSumPairs.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaxPathSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximizeHappinessSelectedChildren.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumAlternatingSubsequenceSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumAvarageSubArrayI.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumDistanceArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumLengthOfPairChain.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumNestingDepthOfParentheses.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumNumberOfPointsWithCost.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumNumberOfVowelInSubstringOfKLength.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumOddBinaryNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumScoreFromRemovingSubstrings.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumScoreWordsFormedByLetters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MaximumTotalImportanceOfRoads.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MedianOfTwoSortedArrays.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MeetingRoomII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MeetingScheduler.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MergeInbetweenLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MergeIntervals.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinLengthOfStringAfterDeletingSimilarEnds.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinSwapsToGroupAllOneTogether.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimDifferenceBetweenLargestAndSmallestValueInThreeMoves.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumBitFlipsToConvertNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumCommonValue.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumCostToConnectAllPointsUsingKrushkal.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumDeletionsMakeStringBalanced.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumFallingSumPathII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumHeightTrees.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumIncrementToMakeArrayUnique.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumMovesToGetPeacefulBoard.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumNumberArrowsBurstBalloons.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumNumberOfMovesToSeatEveryone.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumNumberOfOperationsToMakeArrayXOREqualToK.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumNumberOfSquareNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumRemoveToMakeValidParentheses.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumSpanningTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinimumWindowSubstring.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MinmumCostToConnectAllPoints.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MissingNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MostProfitAssigningWork.executor&quot;: &quot;Run&quot;,
++    &quot;Application.MostStonesRemovedWithSameRowOrColumn.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NoOfSpaceCleaningRobotsCleaned.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NonAdjacentMaxSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NthTribonacciNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberComplement.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfAtoms.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfGoodLeafNodesPairs.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfIslandII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfIslands.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfOperationsToMakeNetworkConnected.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfProvinces.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfSeniorCitizens.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberOfStudentsUnableToEatLunch.executor&quot;: &quot;Run&quot;,
++    &quot;Application.NumberofStepstoReduceNumberBinaryRepresentationtoOne.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.OddEvenNumber.executor&quot;: &quot;Run&quot;,
++    &quot;Application.OptimalPartitionOfString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PaintFence.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PairsSongsWithTotalDurationsDivisibleBy60.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PalindromicSubstrings.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PallindromeLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PallindromeSubstring.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PartitionArrayForMaximumSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PatchingArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PathWithMaximumGold.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PathWithMaximumProbability.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PathWithMinimumEffort.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PatternSyntaxChecker.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PerfectSquares.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PowerOfThree.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.PowerOfTwo.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PowerXN.executor&quot;: &quot;Run&quot;,
++    &quot;Application.PrepareAdjacencyList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ProductOfArrayExceptSelf.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RangeSumOfBST.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RangeSumOfSortedSubarraySums.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RearrangeArrayElementsbySign.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RearrangingFruits.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RegionsCutBySlashes.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RelativeRanking.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RemovalOfVowelsFromString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RemoveDuplicateLetters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RemoveInterval.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RemoveKDigits.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RemoveNodesFromLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RemoveZeroSumConsecutiveNodesFromLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReorderRoutesToMakeAllPathsLeadToTheCityZero.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReplaceWords.executor&quot;: &quot;Run&quot;,
++    &quot;Application.RevealCardsInIncreasingOrder.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReverseInteger.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReverseLinkedList.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReversePrefixOfWord.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReverseStringInPlace.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ReverseSubstringsBetweenEachPairofParentheses.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SameTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SatisfiabilityOfEqualityEquations.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ScoreOfString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SearchInRotatedSortedArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SherlockAndTheValidString.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ShortestPathInBinaryMatrix.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ShortestPathWeightedUndirectedGraph.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SmallestStringStartingFromLeaf.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SmallestSubsequenceOfDistinctCharacters.executor&quot;: &quot;Run&quot;,
++    &quot;Application.Solution.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SortAnArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SortArraybyIncreasingFrequency.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.SortCharactersByFrequency.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SortListBasedOnLastDigit.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SortTheJumbledNumbers.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SpecialSubStringAgain.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SpiralMatrixIV.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SplitBST.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.SplitLinkedListinParts.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SquaresOfASortedArray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StepByStepDirectionsFromBinaryTreeNodetoAnother.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StoneGameII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StrangePrinter.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StringConversion.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StringLargestAndSmallest.executor&quot;: &quot;Run&quot;,
++    &quot;Application.StronglyConnectedComponents.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SubarrayProductLessThanK.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SubarraySumsDivisibleByK.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SubstringsThatBeginAndEndWithSameLetter.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SudokuSolver.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SumOfDigitsOfStringAfterConvert.executor&quot;: &quot;Run&quot;,
++    &quot;Application.SuperDigits.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TaskScheduler.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TheEarliestMomentWhenEveryoneBecomeFriends.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TheKthFactorofn.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ThreeConsecutiveOdds.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TimeNeededToBuyTickets.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TopoSortUsingBFSInDirectedGraph.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TopologicalSortingADG.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TrappingRainWater.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TwoKeysKeyboard.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TwoStrings.executor&quot;: &quot;Run&quot;,
++    &quot;Application.TwoSum.executor&quot;: &quot;Run&quot;,
++    &quot;Application.UglyNumberIII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.UglynumberII.executor&quot;: &quot;Debug&quot;,
++    &quot;Application.UncommonWordsFromTwoSentences.executor&quot;: &quot;Run&quot;,
++    &quot;Application.UnlockAndroidPatterns.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ValidWordAbbreviation.executor&quot;: &quot;Run&quot;,
++    &quot;Application.ValidateBinarySearchTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.VerifyPreorderSequenceBinarySearchTree.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WalkingRobotSimulation.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WordSearch.executor&quot;: &quot;Run&quot;,
++    &quot;Application.WordSearchII.executor&quot;: &quot;Run&quot;,
++    &quot;Application.XORQueriesSubarray.executor&quot;: &quot;Run&quot;,
++    &quot;Application.check.executor&quot;: &quot;Run&quot;,
++    &quot;Application.com.prep.comparatorDemo.Solution.executor&quot;: &quot;Run&quot;,
++    &quot;Application.com.prep.trie.ReplaceWords.executor&quot;: &quot;Run&quot;,
++    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
++    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
++    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
++    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
++    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
++    &quot;last_opened_file_path&quot;: &quot;/Users/subh/Documents/CODEBASE/Workspace&quot;,
++    &quot;project.structure.last.edited&quot;: &quot;Libraries&quot;,
++    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
++    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
+   }
+-}]]></component>
++}</component>
+   <component name="RunManager" selected="Application.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons">
+     <configuration name="BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+       <option name="MAIN_CLASS_NAME" value="com.prep.dynamicProgramming.BuildArrayWhereYouCanFindTheMaximumExactlyKComparisons" />
