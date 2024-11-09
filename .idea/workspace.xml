@@ -5,12 +5,12 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="5a6016dd-9084-41e3-9522-db5f6a2afe2a" name="Changes" comment="commit 11052024">
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Backtracking1/Combinations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Backtracking1/LetterCombinationsOfPhoneNumber.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/LargestCombinationWithBitwiseANDGreaterThanZero.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/Permutations.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/com/prep/hackerRank/MatchingStringsArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/IntersectionOfThreeSortedArrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/MinimumArrayEnd.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/ThreeSum.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/com/prep/slidingWindow/MinimumSizeSubarraySum.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Workspace/com/prep/dynamicProgramming/CoinChange.class" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,6 +78,7 @@
     "Application.CircularSentence.executor": "Run",
     "Application.ClimbingStairs.executor": "Run",
     "Application.CoinChange.executor": "Run",
+    "Application.CoinChangeII.executor": "Run",
     "Application.CombinationSum.executor": "Run",
     "Application.CombinationSumII.executor": "Run",
     "Application.CombinationSumTwo.executor": "Run",
@@ -167,6 +168,7 @@
     "Application.HouseRobber.executor": "Run",
     "Application.HouseRubberTwo.executor": "Run",
     "Application.InsertGreatestCommonDivisorsInLinkedList.executor": "Run",
+    "Application.IntersectionOfThreeSortedArrays.executor": "Run",
     "Application.IntersectionOfTwoArrays.executor": "Run",
     "Application.IsSumPossible.executor": "Run",
     "Application.IsomorphicString.executor": "Run",
@@ -252,6 +254,7 @@
     "Application.MinSwapsToGroupAllOneTogether.executor": "Run",
     "Application.MinimDifferenceBetweenLargestAndSmallestValueInThreeMoves.executor": "Run",
     "Application.MinimumAddToMakeParenthesesValid.executor": "Run",
+    "Application.MinimumArrayEnd.executor": "Run",
     "Application.MinimumBitFlipsToConvertNumber.executor": "Run",
     "Application.MinimumCommonValue.executor": "Run",
     "Application.MinimumCostToConnectAllPointsUsingKrushkal.executor": "Run",
@@ -268,6 +271,7 @@
     "Application.MinimumNumberOfSquareNumber.executor": "Run",
     "Application.MinimumNumberOfSwapsToMakeTheStringBalanced.executor": "Run",
     "Application.MinimumRemoveToMakeValidParentheses.executor": "Run",
+    "Application.MinimumSizeSubarraySum.executor": "Run",
     "Application.MinimumSpanningTree.executor": "Run",
     "Application.MinimumStringLengthAfterRemovingSubstrings.executor": "Run",
     "Application.MinimumTotalDistanceTraveled.executor": "Run",
@@ -384,6 +388,7 @@
     "Application.TheKthFactorofn.executor": "Run",
     "Application.TheNumberOfTheSmallestUnoccupiedChair.executor": "Run",
     "Application.ThreeConsecutiveOdds.executor": "Run",
+    "Application.ThreeSum.executor": "Run",
     "Application.TimeNeededToBuyTickets.executor": "Run",
     "Application.TopoSortUsingBFSInDirectedGraph.executor": "Run",
     "Application.TopologicalSortingADG.executor": "Run",
@@ -423,13 +428,13 @@
       <recent name="com.prep.priorityQueue" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.LargestCombinationWithBitwiseANDGreaterThanZero">
-    <configuration name="Combinations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.Backtracking1.Combinations" />
+  <component name="RunManager" selected="Application.MinimumArrayEnd">
+    <configuration name="CoinChange" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.recursion.CoinChange" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.Backtracking1.*" />
+          <option name="PATTERN" value="com.prep.recursion.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -437,8 +442,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LargestCombinationWithBitwiseANDGreaterThanZero" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.LargestCombinationWithBitwiseANDGreaterThanZero" />
+    <configuration name="IntersectionOfThreeSortedArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.IntersectionOfThreeSortedArrays" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
@@ -450,12 +455,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="LetterCombinationsOfPhoneNumber" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.Backtracking1.LetterCombinationsOfPhoneNumber" />
+    <configuration name="MinimumArrayEnd" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.MinimumArrayEnd" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.Backtracking1.*" />
+          <option name="PATTERN" value="com.prep.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -463,12 +468,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="MatchingStringsArrays" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.hackerRank.MatchingStringsArrays" />
+    <configuration name="MinimumSizeSubarraySum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.slidingWindow.MinimumSizeSubarraySum" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="com.prep.hackerRank.*" />
+          <option name="PATTERN" value="com.prep.slidingWindow.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -476,8 +481,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Permutations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="com.prep.Permutations" />
+    <configuration name="ThreeSum" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="com.prep.ThreeSum" />
       <module name="Workspace" />
       <extension name="coverage">
         <pattern>
@@ -491,11 +496,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.LargestCombinationWithBitwiseANDGreaterThanZero" />
-        <item itemvalue="Application.LetterCombinationsOfPhoneNumber" />
-        <item itemvalue="Application.Combinations" />
-        <item itemvalue="Application.Permutations" />
-        <item itemvalue="Application.MatchingStringsArrays" />
+        <item itemvalue="Application.MinimumArrayEnd" />
+        <item itemvalue="Application.ThreeSum" />
+        <item itemvalue="Application.IntersectionOfThreeSortedArrays" />
+        <item itemvalue="Application.MinimumSizeSubarraySum" />
+        <item itemvalue="Application.CoinChange" />
       </list>
     </recent_temporary>
   </component>
@@ -539,7 +544,15 @@
       <option name="project" value="LOCAL" />
       <updated>1730869332711</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="commit 11052024">
+      <option name="closed" value="true" />
+      <created>1731046058993</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1731046058993</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
@@ -698,11 +711,6 @@
           <url>file://$PROJECT_DIR$/src/com/prep/SortAnArray.java</url>
           <line>11</line>
           <option name="timeStamp" value="55" />
-        </line-breakpoint>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/com/prep/dynamicProgramming/CoinChange.java</url>
-          <line>14</line>
-          <option name="timeStamp" value="56" />
         </line-breakpoint>
         <line-breakpoint enabled="true" type="java-line">
           <url>file://$PROJECT_DIR$/src/com/prep/MinSwapsToGroupAllOneTogether.java</url>
