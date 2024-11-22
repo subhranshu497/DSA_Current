@@ -16,8 +16,9 @@ public class FlipColumnsForMaximumNumberOfEqualRows {
         for(int [] row:matrix){
             StringBuilder sb = new StringBuilder();
             if(row[0]==1){
-                for(int n:row)
+                for(int n:row){
                     sb.append(n==1?0:1);
+                }
             }
             else{
                 for(int n:row)
