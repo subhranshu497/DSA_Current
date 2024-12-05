@@ -5,7 +5,6 @@ public class MovePiecesToObtainAString {
         String source = "_L__R__R_";
         String target = "L______RR";
         boolean flag = canChange(source, target);
-        System.out.println(flag);
     }
 
     private static boolean canChange(String source, String target) {
