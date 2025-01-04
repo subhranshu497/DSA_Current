@@ -15,10 +15,7 @@ public class CheckWordOccursAsPrefixAnyWordSentence {
         int pos = -1;
         String [] strArr  = sentence.split("\\s+");
         for(int i=0;i< strArr.length;i++){
-            int j=0;
-            while(j<searchWord.length() && searchWord.length()<= strArr[i].toCharArray().length && strArr[i].charAt(j)==searchWord.charAt(j))
-                j++;
-            if(j==searchWord.length())return i+1;
+            if(strArr[i].startsWith(searchWord)) return i+1;
         }
         return pos;
     }
